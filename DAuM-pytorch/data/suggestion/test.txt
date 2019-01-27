@@ -1,0 +1,2499 @@
+This would aspect_term live traffic aware apps
+enable
+negative
+Please try other formatting like bold italics shadow to aspect_term titlessubtitles from content
+distinguish
+negative
+Since computers were invented to save time I aspect_term we be allowed to upload them all in one zip file using numbering for the file names and the portal could place them in the right order
+suggest
+negative
+Allow rearranging if the user wants to aspect_term them
+change
+negative
+Add SIMD instructions for better use of ARM NEON instructions for math and aspect_term
+games
+negative
+Also using a hot swapping code generator optimized machine code like HotSpot in Java does would also be very helpful to aspect_term slow C code
+mitigate
+negative
+Microsoft should seriously aspect_term into getting rid of Symantec for all these payment stuff
+look
+negative
+I would be extremely useful in a variety of app types to be notified upon call started and ended events at least be able to aspect_term whether or not the device is being used for a phonecall
+check
+negative
+I would like to aspect_term informatin about the certification process in the dev center app
+see
+negative
+It would be nice to aspect_term at a glance if an app is featured in one of the markets
+see
+negative
+Also I would be fun to aspect_term a record showing the featured markets and dates
+have
+negative
+Make ProgressRing control available for Windows Phone just like aspect_term
+Win8
+negative
+It would be great if the OS moved on to the second third etc NFC record and tried to aspect_term off of them until there was a success
+trigger
+negative
+We need for our applications on each of the mobile platforms to be able to aspect_term data on a separate NDEF records contained in an NDEF message
+read
+negative
+Provide Process ClassAPIs like that for regular Windows to aspect_term lower level operations like Task Manager in Windows
+develop
+negative
+Please aspect_term the possibility the set price market distribution and trial mode existence individually for the XAPs
+add
+negative
+Add the ability to do memory profiling on background agent periodic as they are limited on memory and sometimes its too hard to aspect_term memory leaks
+catch
+negative
+Either one has to use NET to access a library or Microsoft advises to aspect_term a NET app with native code in a WinRT component
+do
+negative
+Dont limit us artifically just because you aspect_term like native developers
+dont
+negative
+These page templates should be updated to aspect_term the mediumsized semibold font by default for the title text
+use
+negative
+Taskbased operations would aspect_term the code much more clean and readable
+make
+negative
+Add a boolean to CameraCaptureTask to indicate whether you want it to save the picture taken to aspect_term saved to the camera roll
+be
+negative
+Please expose ETW logging namespaces like SystemDiagnosticsEventing so that it is possible to aspect_term events from the windows 8 app
+log
+negative
+Currently the only way to aspect_term advantage of the direct manipulation in a XAML Windows store app is by using a ScrollViewer
+take
+negative
+Instead of having a top charts style listing where the most popular apps are displayed to every phone anywhere aspect_term a new form of distribution where the results are randomized every time a user looks at the marketplace
+create
+negative
+Highly rated apps should appear near the top more and they should aspect_term less and less frequently and the rating of the app dwindles
+appear
+negative
+It seems to me that all good appsgames should have a chance at decent exposure in the top charts and waiting to aspect_term featured just isnt worth it
+be
+negative
+Maybe you should think about some way to reward those users who take their time to actually try an app and aspect_term it
+review
+negative
+It would be great to be able to use the WP8 emulator and Surface emulator for that matter for mobility demonstrations ie when I deliver a Dynamics CRM demo I often nearly always want to aspect_term mobility scenarios on the same screen as the rest of the demo
+include
+negative
+It will even aspect_term seamless migration to new hardware
+allow
+negative
+I would like to ask Microsoft to give us a tooloption in emulator with which we can take screenshots once in one emulator and it will aspect_term screenshots in all resolutions and all languages supported by our app
+produce
+negative
+You have to run one emulator take screenshots close it and aspect_term another and so on
+run
+negative
+SharpDX proves that those key technologies can be made available to CSharp I would aspect_term to either support the project or to provide your own interface
+suggest
+negative
+It would be more natural to aspect_term the physical search key to activate the search function on the active application rather than loading Bing which is rarely the goal
+allow
+negative
+Associate bound objects to aspect_term templates implicitly by type instead of explicitly by template name
+data
+negative
+For more information see Data aspect_term
+Binding
+negative
+On WP8 aspect_term optional support to hook these hardware keys press events for the lens plugin featureshardware keys should include vol vol stage 1 light press camera shutter stage 2 deep press camera shutter
+add
+negative
+When an application has problems or when a problem is detected in advance by the developer until the publication of the correction version the client is without knowing what is happening it would be possible for Microsoft to aspect_term a communications resource developer for customers who have installed its application
+implement
+negative
+Readwrite accsess to email sync settings could enable applications to aspect_term custom sync profiles based on weekdays time position etc
+create
+negative
+It s impossible to connect easily to ftp network I aspect_term to include it in the future sdk
+suggest
+negative
+I hope Microsoft can aspect_term Asia voice function fastest
+open
+negative
+We need support special aspect_term tasks like VOIP and IM
+multitasking
+negative
+Please add the possibility to aspect_term your own spell check service or provide the data if a system wide one existed
+add
+negative
+If Microsoft created some incentives like a free device Blackberry did this and a free year of membership Amazon did this it could aspect_term a lot of developers to the platform which is crucial to the platform taking off
+drive
+negative
+I would be a really nice gesture to have an option wich can put everything to the other side so when left handed people scroll they could also aspect_term the content
+see
+negative
+It would be great to be able to aspect_term the emulator location data use the NMEA file format either via file importexport or using the files directly as a feed
+have
+negative
+currently you can only pin an album but it would be useful if you can aspect_term a single image as a tile that way you have easy access to a it
+pin
+negative
+why shouldnt I as user be able to aspect_term reviews made by people from other countries
+see
+negative
+For apps that synchronize or connect to networks sporadically it would be handy to have an easy way to aspect_term if you are on a cheap connection so if WiFi is connected or the device is connected to the web via USB
+detect
+negative
+So suggestion is to aspect_term properties like IsWiFiConnected and IsCableConnected to DeviceNetworkInformation that execute fast
+add
+negative
+aspect_term developers good explanation what they do wrong and enforce good design
+Give
+negative
+Apps should take no longer than 23 seconds to start and need to explain why they would aspect_term longer
+take
+negative
+Please aspect_term APIs for call forwarding and other call management functionsholdunholdswapconferenceetc
+provide
+negative
+As a user I would like to be able to select songs that I have put on the device from my library to aspect_term up to
+wake
+negative
+Thus this idea is actually for the developers to make scrolling faster after each subsequent scroll like every 5 scrolls the scrolling speed will aspect_term
+increase
+negative
+in addition the user should be able to take a scree shot within the multitasking area by using a finger gesture to drag the app towarda the bottom of the screen a screen capture icon should appear and the outer edges of the icon should fill with green and onve the edges are completly green a photograph noise will occur aspect_term with a sudden screen flare to tell the user the screen shot has been taken and saved in the saved images folder
+allow
+negative
+We need the ability for developers to aspect_term relevant tags to their app descriptions we then need the ability to search for apps with those tags tags should also be verified during app submission to ensure theyre relevant
+add
+negative
+It will be pleasant to go the main page of the app in the marketplace to aspect_term the general prsentation screenshots the other users reviews
+see
+negative
+Allow user to aspect_term Video Audio and more pictures in an MMS now only one pic is supported
+send
+negative
+Allow access to raw data such as signal strength imformation to aspect_term creation of indoor location positioning using available wifi bluetooth or cellular networks when no gps data is available
+allow
+negative
+Since windows phones are selling hot in countries like India browser should aspect_term displaying Indian language characters
+start
+negative
+And a smart dialer can then be a full alternative to the builtin phone app since the app also can have a quickbutton for goto the regular phone app whenever the user wants to aspect_term that
+do
+negative
+As an alternative to giving writeaccess to calendar which can be hard to get a go on for security reasons aspect_term us at least open an appointment directly in the calendar app
+let
+negative
+Signal strength directly aspect_term video playback experience
+impacts
+negative
+But reusing the operating system component saves us development effort and ensures it looks as aspect_term as the operating system evolves
+expected
+negative
+You can ask for a aspect_term but its not clear what and when something will happen
+request
+negative
+With windows u have the UI app and the service app hosted locally may be the IIS express used during local debug can aspect_term used
+be
+negative
+This new approach of developing applicaitons simlifies the UI development where developer aspect_term rid of learning other technologies like java scriptangularjquerystyle sheets and all those n number of scripts
+get
+negative
+Typical problem here would be deploymentInstallationupdate of the UI application to client machine But if we simplify this process of deployment like having the rules that the UI app should be only one obfuscated executable file It should not aspect_term on reference more
+depend
+negative
+Bonus points for it to aspect_term xaml standard compliant
+be
+negative
+In addition this will aspect_term a greater prominence of XAML Standard and greater acceptance in the market and in the media
+allow
+negative
+Dont require developers to use the background task builder and background triggers just to aspect_term an app in the background
+activate
+negative
+A control that offers hour minute second selection would aspect_term helpful
+be
+negative
+Add to CollectionViewSource function pointer to get the group objects not just aspect_term
+PropertyPath
+negative
+A DatePickerFlyout whose Date is twoway bound will update targettosource but not aspect_term
+sourcetotarget
+negative
+When functions and FallbackValue is used in an xbind at same time the parameter must aspect_term exactly
+match
+negative
+Playback seamlessly between one aspect_term and another
+media
+negative
+A control for visualizing and aspect_term networks graphs and flowcharts
+editing
+negative
+aspect_term them alone
+Leave
+negative
+Does not make sense that an Idle task would aspect_term suspended for not being busy enough
+be
+negative
+Making the task more busy to work around idle tasks being suspended would aspect_term more battery usage kind of the opposite of what you want
+mean
+negative
+Microsoft wants us to aspect_term more connected app with Project Rome API
+build
+negative
+In 15063 we can aspect_term brush by XamlCompositionBrushBase
+extend
+negative
+It also annoys during development because now my solution has to have 4 target platforms while it could just aspect_term one
+have
+negative
+What I want is to drag and drop a file then be able to aspect_term its full path and file name as stored on the disk and access it using standard C IO file access functions such as fopen fread etc
+get
+negative
+I dont want to use XAML because it looks complicated it looks like it can aspect_term performance Im making 3D heavy DirectX based applications that need full performance
+reduce
+negative
+For example I drag and drop a BMP image my app compresses it and aspect_term as PNG image automatically in the same folder with the same name
+saves
+negative
+Dual screen Google Card Glass fulfill the function and aspect_term the application very attractive
+make
+negative
+We wan na to aspect_term other App in Desktop
+commuicate
+negative
+not only other UWP but WPF aspect_term
+application
+negative
+Ive done the same tests in UWP mode using DXGISWAPEFFECTFLIPDISCARD and results aspect_term the same slow as in Win32WinAPI
+were
+negative
+From what I see ASTC would be great for that have good quality but also small size looks like it has lot of format options so I could aspect_term what I want
+choose
+negative
+Im pretty sure the new TreeView aspect_term not Fall Creators Update dependent
+is
+negative
+Map aspect_term unusable after phone 10015063 update
+became
+negative
+ResolveCompleted event aspect_term after ten seconds
+comes
+negative
+d Lines on traffic layer are blurred jagged and aspect_term bad
+looking
+negative
+While nice looking UWP UI is not well suited for creating UIheavy classic applications think VisualStudioAutoCADBlenderLOBs with a lot of data that you would never want to aspect_term on tabletphone
+use
+negative
+If our ISV UWP App also have this feature we can spent more time to trying the new feature and Insider customer and testers can use it and we could aspect_term feedbacks
+got
+negative
+Because if you currently assign a Binding a VisualState setter as below it will resolve the value of the binding and assign that to the target while you would like to aspect_term the binding itself
+assign
+negative
+This will aspect_term designs and implementations to change bindings depending on states and even help some states where some bindings are not required to be temporarily set to xNull for performance handy in complex screens
+allow
+negative
+We can see the entries added in the registry but client aspect_term not access the interfaces
+can
+negative
+For example lets say I want to aspect_term shorthand for aligning a control inside RelativePanel fully horizontal like AlignHorizontalWithPanel
+create
+negative
+Allows desktop apps to incrementally aspect_term UI innovations and creates a bridge to UWP for app UI
+adopt
+negative
+I tried the converted app aspect_term IME
+using
+negative
+We want to aspect_term support Google IME
+improve
+negative
+I thinks its not difficult to aspect_term since Cortana for PC supports up to 13 languages as listed on httpssupportmicrosoftcomenusinstantanswers557b5e0e0eb044db87d65e5db6f9c5b0cortanasregionsandlanguages
+do
+negative
+You can aspect_term this with the CameraStreamCorrelation sample
+verify
+negative
+The following streams aspect_term available on the PC
+are
+negative
+The following streams aspect_term available on the XBOX
+are
+negative
+Are there any plans to aspect_term skeleton tracking on the XBOX
+support
+negative
+It seems such a shame that the new Kinect drivers expose the Kinect via this API and yet the ExposureControl is marked as being not aspect_term for the Kinect
+supported
+negative
+From the libfreenect2 library it seems entirely possible to tell the Kinect not to aspect_term autoexposure
+do
+negative
+I expect that the content set directly the text to aspect_term after closing the application
+persist
+negative
+To me something that may cause a runtime crash and that the compiler clearly knows to flag aspect_term not a warning but an error
+should
+negative
+xbox dev mode companion work ipv6 aspect_term
+please
+negative
+Make it really smooth to update code of a UWP app like you are already doing with the XAML part the app is automatically reloaded without being shut down and aspect_term
+relaunched
+negative
+A XAML designer for Visual Studio in aspect_term 7
+Windows
+negative
+The control would aspect_term for the use of the contact picker but allows for manual entry and deletion of contacts
+allow
+negative
+To give the user a sense of consistency the file picker remembers the last location that the user navigated to and will generally aspect_term at that location
+start
+negative
+This is not always the best solution for example pretend you had a UWP app that asked the user to aspect_term a picture and a music file
+select
+negative
+I am migrating my app from Windows Desktop using Core Audio API to UWP using aspect_term AudioGraph
+hopefully
+negative
+We are exploring moving forward with UWP but currently there is no way to access the pipeline to aspect_term custom shaders and models like we do now in Virtual Earth with MicrosoftMapPointGraphics3DGraphicsEngine3D and MicrosoftMapPointRendering3DSceneStep
+add
+negative
+Im developing a Java application so interop with C is kinda tricky while interop Shell32 API or C libraries aspect_term pretty easy and straightforward with JNA
+is
+negative
+It is very difficult to Create a Custom RichEditBox with all the basic features Like Text Formatting Bullets and numbering Support for Inking Like OneNote and also to aspect_term adaptive layout thats too much work for basic Text editing
+support
+negative
+Im creating app aspect_term face detection
+using
+negative
+If we put the MKV in another service or aspect_term the video is reproduced but the connection with OneDrive has been lost
+server
+negative
+It aspect_term on the way
+stops
+negative
+Chinese and Italian support have already been aspect_term for
+asked
+negative
+In some cases an access error may occur at the time of opening a file or it may aspect_term opened correctly
+be
+negative
+We aspect_term a solution
+want
+negative
+Something seems to have changed with loggingchannel possibly aspect_term manifest code that handles the string message has changed around 15043
+default
+negative
+FWIW preview versions of windows post anniversary update were aspect_term the message correctly
+showing
+negative
+Id like to aspect_term implicit DataTemplates in UWP
+have
+negative
+Currently i can only input plain text in toast notification input since the type does not aspect_term password
+support
+negative
+Developers need to aspect_term good and deep understanding of how UI virtualization works on UWP app
+have
+negative
+Currently you can aspect_term the Pivot or there are 3rdparty vendors providing a TabControl
+use
+negative
+Im converting some wpf apps to aspect_term and Im missing a report control
+uwp
+negative
+Please open up the base classes for inheritance and provide a sample how to aspect_term a custom virtualizing panel
+create
+negative
+Without this UWP is more or less a toy because any customization requires that the app aspect_term deployed completely separately
+be
+negative
+This aspect_term only relevant for desktop UWP apps
+is
+negative
+You can at least aspect_term any of these solutions
+provide
+negative
+Id use this for my media phone aspect_term Groove 247
+playing
+negative
+The panorama control is still the best control for my app and my users aspect_term it
+love
+negative
+Updating the app to UWP aspect_term not possible without this control
+is
+negative
+Currently there is no way to aspect_term MenuFlyout from closing when user click any of its items
+prevent
+negative
+Im not even sure if it is not a bug because setting argsCancel in Closing event is not aspect_term
+working
+negative
+Support IO transactions on UWP platform as part of Windows Runtime API for file aspect_term
+IO
+negative
+For example three quick touch strokes to aspect_term immediately to the top or bottom
+scroll
+negative
+Really long lists and views are boring to aspect_term even at maximum scroll speed
+scroll
+negative
+Keyboard have HomeEnd keys to scroll to aspect_term but touch screen doesnt have same capability
+topbottom
+negative
+But this library aspect_term fairly lowlevel
+is
+negative
+That concept is painfully evident when using Microsofts Edge browser and you want to aspect_term various Favorites menus
+browse
+negative
+Specifically excellent mouse support means that menus will aspect_term all the hover actions that menus currently enjoy in win32 applications
+support
+negative
+The current situation requires two mouse clicks to accomplish the same thing as a simple hover aspect_term
+should
+negative
+I dont know what the component should aspect_term like
+look
+negative
+It can happen that sometimes we do need a control to aspect_term a list of pageselements that looks like a Pivot control but with a infinite list of pageselements
+store
+negative
+So I tried to aspect_term other ways such as Excel Access or SQL Server Compact Edition
+find
+negative
+So application would aspect_term secret API keys as needed from systemprovided secure storage
+request
+negative
+Release appx shouldnt have secret keys inside and keys should be on Windows Store server and those keys would aspect_term requested from server on application install
+be
+negative
+Another advantage is the developer already aspect_term a preview in design mode
+have
+negative
+The idea would be to aspect_term a Try button on every sample
+have
+negative
+This button will generate a ready to aspect_term Visual Studio project with the current sample
+use
+negative
+It seems that animated GIFs disappear when application aspect_term restores
+minimizes
+negative
+Allow the user to select items drag them around and aspect_term them
+resize
+negative
+We currently have a store app that works with our desktop app and it aspect_term a great deal of confusion
+causes
+negative
+if you need anything from me for any reason I will do what ever I need to do to aspect_term our software for our users
+improve
+negative
+As developer I want to aspect_term custom picker like Date or Time pickers
+create
+negative
+you aspect_term scroll at that point
+cant
+negative
+In an XAML page there are some buttons and command bar buttons both of which have access keys aspect_term
+set
+negative
+I am working on porting an app that could aspect_term MD5 checksums on a file
+calculate
+negative
+Being an enterprise developer the advent of Big Data I believe the SeaDragon PivotViewer lastest binaries should aspect_term ported over to WPFUWP apps as it is a well needed tool
+be
+negative
+Since we are preparing a custom control with the ScrollViewer the look and feel aspect_term not nice
+is
+negative
+Microsoft is loosing a huge market by not aspect_term a full net standard
+supporting
+negative
+Evidently the MediaCompositionSaveAsync API internally uses the StorageApplicationPermissionsFutureAccessLists API which aspect_term a limitation of 1000 items
+has
+negative
+If you aspect_term more than 1000 clips created via MediaClipCreateFromImageFileAsync the API will fail with this exception
+add
+negative
+An item must aspect_term removed before another item is added
+be
+negative
+Additional information The maximum number of items for the access list has been aspect_term
+reached
+negative
+In case app is installed in SD card and notification uses custom audio file default notification sound is aspect_term instead of custom audio file
+played
+negative
+In the end developers have to use some workarounds to aspect_term old behavior
+simulate
+negative
+You can aspect_term that even Apps list in W10M simulates old behavior instead of default one
+see
+negative
+When using FM radio i have my headphones aspect_term in
+plugged
+negative
+This would aspect_term replying to messages etc
+make
+negative
+I know its not possible at the moment specially with all the hardware limitations but if you guys really are working on a surface phone bringing visual studio to it will aspect_term so huge
+be
+negative
+The problem is the output port names are enumerated by the UWP API as just MIDI and not the name of the port as defined when they aspect_term setup
+were
+negative
+Reaper and other desktop programs are aspect_term the proper name
+displaying
+negative
+aspect_term windowsh shouldnt generate compile warnings even the extra ones
+Including
+negative
+That would aspect_term all the users happy
+make
+negative
+Hololens lets you render on 2 backbuffersstereoscopic but its hard to aspect_term if the output is correct because the emulator shows just one frame
+know
+negative
+there is a bug in UWP where special characters are interpreted as letters when using multi aspect_term keyboard layout like the german Neo2 layout
+layered
+negative
+Its also a total annoyance when working with data that aspect_term handling of lots of special charecters like JSON and XML data
+require
+negative
+Looking forward to the progress youre aspect_term D
+doing
+negative
+With Project Rome I can aspect_term devices of others connect with them and launch apps or leverage app services once consent has been established
+discover
+negative
+This feature is implemented in the accessory API which is aspect_term to only smart watch makers
+restricted
+negative
+This would aspect_term them to know that additional awesome features are there
+allow
+negative
+The Windows display language of my computer is set to aspect_term because I am an app developer and most app problems and solutions are written in English
+enUS
+negative
+Such functionality aspect_term common to music apps in Google Play Store Apple Store BlackBerry World
+is
+negative
+In most cases such apps can be ported to UWP platform and because they are coming from a POSIXLinux the network API is BSD sockets as well as some complex network communication libraries can be used to aspect_term this or that networkoriented functionality
+support
+negative
+Currently the network data flow is boroken once app goes into background or screen is aspect_term off
+switched
+negative
+Can aspect_term purchases made available to Windows Store for Business
+inapp
+negative
+These channels aspect_term not accessible with the current AudioGraph APIs
+are
+negative
+It has support for Linux and I think Windows should aspect_term support too
+gain
+negative
+And the dac folder aspect_term empty
+is
+negative
+Hello Dev aspect_term
+Team
+negative
+In the app Settings you can disabled the swipeopen or aspect_term the swipein detection area wider if the users phone makes getting close to the screen edge difficult
+make
+negative
+So there should aspect_term a way to either swap out style XAML RsourceDictionary files andor pieces of more
+be
+negative
+Any feedback aspect_term appreciated Thanks John
+is
+negative
+XAML apps can aspect_term it but there is no equivalent WinRT API for JS apps
+detect
+negative
+My HTML perfectly aspect_term in Windows 10 but not in Windows 10 Mobile
+fine
+negative
+As an information this is the xaml control that aspect_term the complex attributeproperty
+contain
+negative
+In my opinion this feature is really fundamental much more important to me than many new features that aspect_term regularly
+appears
+negative
+According to the documentation the proper way to handle input in a store app is to aspect_term a CoreIndependentInputSource from another thread by calling swapChainPanelCreateCoreIndependentInputSource
+create
+negative
+Devices with touch input are the ones that suffer the most from this bug since they aspect_term with weak GPUs
+come
+negative
+Devs have to aspect_term either low responsiveness or low performance
+chose
+negative
+The application will aspect_term
+exit
+negative
+Having an API allowing getting the color of the pixels under a pointer eventually throttledasync and only when having pointer capture on would aspect_term the expressiveness of the creation tools in UWP applications
+increase
+negative
+I am manually having to keep a list of these when it would aspect_term easily managed in the Dashboard if the status properly reflected this
+be
+negative
+The current status only seems to aspect_term In Progress if the app has never been put in the store before
+show
+negative
+Meanwhile the perf counters are difficult to associate with a specific application requiring the aspect_term queue be named which HttpListener does not do and netsh called to find URL group IDs to use for correlation
+request
+negative
+I did a research on AudioFrameOutputNode It is strange that it often generate AudioFrame without any audio data the AudioFrames Duration property is 0 miliseconds but the RelativeTime property aspect_term not
+is
+negative
+For example a user send us a feedback to ask a Windows 81 RT version of our app but now we are focused on Windows 10 so we need to aspect_term clear that we read his feedback but its not on our roadmap
+be
+negative
+After that the Age Rating questionnaires stop submitting when you press aspect_term
+submit
+negative
+An example of this An application as a node in an internal media network would aspect_term something along the lines of AudioBus for iOS
+be
+negative
+Extrapolate the above capabilities to Audio allowing onthefly addremove interconnectablereroutable audio nodes virtual interface devices to which AppsDevices would attach to instead of attaching only to aspect_term interfaces
+hardware
+negative
+Same for video not only making desktopwindow screen capture a breeze and naturally handle by the OS it would also aspect_term the creation of virtual screens resource permitting of course for desktop expansionmirroring outputting them to a video inputrecording apps USB3 or even to a DLNA receiver screens
+allow
+negative
+This would aspect_term the user through the OS to detach an App media output from its default interface audiomidi card screenwindow and reattach it to another App or device input
+allow
+negative
+What if we will aspect_term apps reviews
+exchange
+negative
+I like the ease of the app and aspect_term this app to all
+recommend
+negative
+I have largely ignored this is the past because it was minimal but someone is finding good success with it so theyre aspect_term everyone
+hammering
+negative
+Personally Im aspect_term 23 a day from different source email addresses
+getting
+negative
+Removing the support email from the webpage would not hinder the user as they can aspect_term it via the Windows Store app
+see
+negative
+1 A user is at lunch aspect_term their sensitive documents
+viewing
+negative
+They aspect_term to their Email app our application detects active state change and auto logs out
+switch
+negative
+They finish their food and leave but aspect_term their phone on the table
+forget
+negative
+At this point a perpetrator is able to take the phone open the recent apps section and now can aspect_term whatever our client was looking at
+see
+negative
+2 User is at their desktop observing files gets up and makes the app inactive minimizes or moves to aspect_term
+back
+negative
+We aspect_term a timer to auto log out
+begin
+negative
+A perpetrator is able to hover over the taskbar item and aspect_term the last screen drawn whether or not the user logged out
+see
+negative
+Sorry if I sound bitter but I must aspect_term its very frustrating developing for w10 mobile at the moment even if the you get good reviews the chance of them being displayed in the store is very slim due to the version fragmentation
+say
+negative
+As I understand it insider reviews that arent on the slow ring are removed even worse theyre aspect_term permanently from even the Developer Dashboard
+deleted
+negative
+People took time to aspect_term thoughtful reviews and theyre simply deleted
+write
+negative
+Ive started to continually download review reports to just aspect_term a record of them
+have
+negative
+Ive had over fifty 4 star reviews simply disappear never to aspect_term seen again
+be
+negative
+I see the point that insiders shouldnt bring down the ratings of the app if the OS is to blame but with so few people rating anyway and most people being on the fast insider ring it makes it extremely hard to aspect_term reviews
+get
+negative
+Old Windows Phone 81 retain their status of being the most highly aspect_term just because of this
+rated
+negative
+Whats the point of having a rule if that means theres too few reviews and no point for most people to aspect_term reviews at all
+post
+negative
+Im not quite sure what a good solution is you cold aspect_term only 3 reviews for fast insiders but I guess that might skew reviews too positively
+allow
+negative
+Or why not aspect_term the text review stand even if the rating doesnt count
+let
+negative
+As it is getting an accurately impressions of apps through reviews doesnt aspect_term feasible
+seem
+negative
+The caller does not have the required permission to aspect_term this operation
+perform
+negative
+IoT introduced the WindowsSystemProcessLauncher for aspect_term arbitrary programs like ProcessStart in NET
+starting
+negative
+Note when aspect_term DNS Client service crashes
+executed
+negative
+Comment out the TextAttributes line and note service does not aspect_term
+crash
+negative
+I have aspect_term the IsPaneOpen of my SplitView to a property in my ViewModel
+bound
+negative
+This works nicely except when the SplitView is in Overlay mode and the user aspect_term a hardware back button on the phone
+presses
+negative
+In this case the SplitViewPane gets closed as expected but it does that by seemingly overwriting the Binding on IsPaneOpen and instead aspect_term it directly to the value false
+setting
+negative
+The effect is that the panel can never be opened again as my code will aspect_term this by setting the VM property to true but the binding was already lost
+do
+negative
+In practical terms you are forced to make a UI technology diversion to aspect_term new functionality
+implement
+negative
+Xaml doesnt look a tempting option because not useful for mobile or web and needed controls usually aspect_term in javascript first
+implemented
+negative
+At a application architectural level porting WinForms to HTMLJS favours an entirely new application which follows an understoodaccepted architectural pattern then aspect_term old functionality
+reimplement
+negative
+So aspect_term the app in question was one written by an exemployee in 2008 in VBNet with deep domainknowledge targeting users with similar domain knowledge for a specialist task with no design documentation beyond a description of a manual process it replaced
+imagine
+negative
+Well this aspect_term the norm and for all its wrongs its there
+is
+negative
+Never had budget assigned in the first place and its used by 10 people who aspect_term all busy
+are
+negative
+Given the architectural barrier is the killler I dont believe there is any feature of GDI which can not aspect_term expressed in HTML
+be
+negative
+the UI may not adhere to good gui design principals its performance may aspect_term but it probably wont
+suck
+negative
+But its users can start it and it will look and aspect_term the same as it did before arcane controls and all
+act
+negative
+The architecture of a Modern HTML5 appliication has much more in common with GDI and a windows message loop than it aspect_term with Xaml
+does
+negative
+Things like Redux essentially go out of their way to be like a message loop to aspect_term race conditions through async operations
+avoid
+negative
+For Microsoft this would I believe solve a massive developer stumbling block even allowing Winforms controls to potentially aspect_term integrated in HTML UIs
+be
+negative
+So aspect_term the app in question was one written by an more
+imagine
+negative
+Microsoft finally developed a library able to aspect_term NFC devices
+handle
+negative
+Unfortunately the library is only able to get the NDEF messages and doesnt aspect_term the UID of the card
+give
+negative
+Is there a reason why this UID is not saved in the ProximityDevice once the NFC card aspect_term read
+is
+negative
+But it aspect_term no similar property on UWPs api
+has
+negative
+You aspect_term this on Mobile Build 14393 system
+reproduce
+negative
+Currently there is no way to attach debugger to already running process via Attach to aspect_term on mobile
+process
+negative
+And sometimes bad bugs like deadlocks aspect_term
+happens
+negative
+And its real pain to aspect_term them since usually they happen without debugger and on release builds
+investigate
+negative
+Windows 10 Mobile is like back box you cant aspect_term full access to
+get
+negative
+Frankly speaking Im surprised that it was not there from the very aspect_term
+beginning
+negative
+All that happens without any real user attendance which makes those triggers aspect_term
+useless
+negative
+In WM56 there was an UNATTENDED power state for that situation and there was a way to aspect_term real user interaction with the device
+detect
+negative
+Current behavior of SystemTriggerUserAway and UserPresent aspect_term unexpected
+is
+negative
+Phone is sleeping with screen aspect_term off
+turned
+negative
+Some event aspect_term SMS Incoming Call Toast
+occurs
+negative
+UserNotificationChangedTrigger aspect_term
+fired
+negative
+UserPresent trigger aspect_term
+fired
+negative
+After some short timeout screen aspect_term off
+goes
+negative
+This is my personal favourite mobile file open picker the app suspends but it can not aspect_term debugged
+be
+negative
+All sorts of surprises can aspect_term with a complex app
+happen
+negative
+Before UWP CurrentCulture reflected the Regional Settings format and CurrentUICulture aspect_term the Display Language
+reflected
+negative
+We shoulnt have to aspect_term on workaround like this one httpswwwpedrolamascom20151102cultureinfochangesinuwp
+relly
+negative
+It would aspect_term a lot like Facebook Messengers chat heads
+be
+negative
+So many things could aspect_term done with it
+be
+negative
+I found that PhoneTriggerType enum includes useful triggers except the trigger when a call is aspect_term
+received
+negative
+Torch API doesnt work in Lumia with windows phone 81 support such as aspect_term 830640
+Lumia
+negative
+Currently UWP have less readable grayscale font aspect_term
+smoothing
+negative
+It makes UWP apps look worse than aspect_term apps on standard DPI screens
+desktop
+negative
+Sometimes CompassGetDefault returns null and compass stop aspect_term in all apps
+working
+negative
+To solve I need to aspect_term the phone
+restart
+negative
+In the following MSDN Magazine Article it is mentioned that there aspect_term some limits for Voice Command Deffiniton files
+are
+negative
+I use Windows SAPI quite intensively for an application I have built and many Grammars are easily much bigger than the limits aspect_term by Cortana
+imposed
+negative
+This makes it a bit tricky to aspect_term the recognition engine part of the application away from SAPI and towards Cortana since SAPI provides more powerful capabilities for larger sets of commands
+port
+negative
+Unfortunately I am not going to know all uris the cookies are in without tracking every single domain visited which is what I currently have to aspect_term
+do
+negative
+I do this so I can aspect_term all Cookies
+clear
+negative
+An API that would take 5 minutes for someone to write up and aspect_term me a lot of coding is
+save
+negative
+Or secondary to that a DeleteAllCookies or ClearCookies API as that is the only reason I need to get all of them and I cant think of any other use cases to aspect_term all cookies
+retrieve
+negative
+Happy to aspect_term either way
+go
+negative
+User interaction aspect_term on it
+depends
+negative
+Searched up and down to aspect_term this done in Windows 10 no success
+get
+negative
+Similar has been aspect_term in pre
+accomplished
+negative
+used Win CE where MS aspect_term more access to source code
+granted
+negative
+PedestrianFeaturesVisible can aspect_term toggle only if MapStyle is set on Road
+be
+negative
+Currently when using a ControlChannelTrigger with HttpClient you can not send a HTTPS aspect_term without the application getting terminated by the system
+request
+negative
+I tested using HTTPS and to my surprise it does aspect_term with the debugger attached no exceptions get thrown so it is implemented
+work
+negative
+However termination occurs when the application is NOT aspect_term to the debugger
+connected
+negative
+AudioGraph created with custom DesiredSamplesPerQuantum ignores it and aspect_term default 10ms quantum
+uses
+negative
+Depending on hardware you may hear gaps right after start or you may aspect_term load CPU with some additional work like scrolling UI or running some work in background threads
+need
+negative
+I guess it is result of extremely short quantum size 10ms even switching between threads could take more time and too low buffer length 2 quants but it could aspect_term just some synchronization issue
+be
+negative
+slider renders to aspect_term right value 100 instead of zero
+extreme
+negative
+I have an app where I use a custom title bar by aspect_term my view into the title bar area
+extending
+negative
+Then I also use code like this to aspect_term a custom element to support dragging of the window
+allow
+negative
+This all was aspect_term preAnniversary Update
+implemented
+negative
+While all this works fine a bug was aspect_term in the Anniversary Update where the title bar returns zero for Height SystemOverlayRightInset and SystemOverlayLeftInset now
+introduced
+negative
+I confirmed that in preAnniversary Update these properties would aspect_term values like 32 for Height and 188 for SystemOverlayRightInset
+return
+negative
+The use of the file type filter makes no sense when you are picking a folder and its not aspect_term in the documentation
+menioned
+negative
+Suppose we aspect_term an app with two modes like Zune normal and mini
+have
+negative
+In the mini mode the app only aspect_term the indispensable and small elements on the window
+presents
+negative
+I know maybe its not at the Microsofts priority list but I believe we can somehow aspect_term it available
+make
+negative
+But that would aspect_term nice
+be
+negative
+We do like to aspect_term universal Windows apps
+build
+negative
+At the moment it is possible to install to the application install directory but the files there can not aspect_term altered by the application
+be
+negative
+If the application copies the files to the application data folder after installation as done in my work around it can not aspect_term the original files in the installation folder by this having two versions
+delete
+negative
+After the anniversary update the store shows aspect_term the ratings of Current version
+default
+negative
+This is very aspect_term for developers of good and populair apps
+annoying
+negative
+A potential user viewing in the store will most likely make his judgement to download based on the number of reviews and quality of reviews especially since the windows store does not aspect_term the total number of downloads
+show
+negative
+So for app publishers this will be a reason to keep app updates to an absolute minimum in order to aspect_term as many ratings as possible
+get
+negative
+Or at least Last 30 aspect_term
+days
+negative
+I want to know it to aspect_term custom title bar that looks exactly as defult one except with my controls
+make
+negative
+Im able to get SystemAccentBrush but I cant aspect_term actual window title bars color becouse it depends on this Show accent color setting
+get
+negative
+Ive already asked the forum where you can aspect_term the detailed description on the issue
+find
+negative
+If often aspect_term the direction
+misclassify
+negative
+ps I didnt know where to aspect_term this but since the library is in WindowsMediaOcr namespace i put it under media
+post
+negative
+Using Resources in a DataTemplate aspect_term just fine before
+worked
+negative
+Now that Ive upgraded to Anniversary and installed the newest SDK and Tools the newest Visual Studio Update it doesnt work as aspect_term at all
+expected
+negative
+This will aspect_term on instantiation because somehow the ViewModel object is null when the Bindings are updated which was definitely not the case in previous versions and surely not the expected behavior
+crash
+negative
+If I replace the xBind with a Binding it will run but if using the datatemplate for multiple objects for example in a GridView the resource will have the same value for all instances which makes it really aspect_term
+pointless
+negative
+Some apps have such poor startup perf that ngen is aspect_term
+must
+negative
+Or since this is a store app aspect_term the standard background ngen work for WPF apps
+will
+negative
+I aspect_term not like the recent change in the Dev Center
+do
+negative
+First of all it shows cumulative acquisitions rather than for a specified amount of time making it hard to compare which apps people like more if an app has been available longer of course the cumulative acquisitions will aspect_term higher
+be
+negative
+Also being able to aspect_term only some of the apps at the same time is very frustrating
+see
+negative
+Currently it aspect_term part of a sample
+is
+negative
+As simple as ClickOnce aspect_term
+publishing
+negative
+I do not want to aspect_term MSIs
+convert
+negative
+Right now the new DevCenter offers the ability to aspect_term by apps by Included Markets Baseprice and Last modified
+sort
+negative
+I can aspect_term it when I go to definition on SerialDevice
+see
+negative
+In order to break my codes dependency on actual hardware so I could automate my tests I had to aspect_term the wheel
+reinvent
+negative
+By keeping this interface internal I was forced to recreate the interface mostly and aspect_term a wrapper around SerialDevice that implemented it
+create
+negative
+Thats a lot of code to aspect_term when the interface already exists
+write
+negative
+After my application open office document programmatically in background link to it aspect_term in Quick Access Area in File Explorer
+appears
+negative
+Its not good thing because its not aspect_term to share this with users
+needed
+negative
+Enabling a custom provider in the Realtime ETW tracing page of Windows Device Portal aspect_term no details other than the timestamp for each event
+shows
+negative
+Ive been using PerfView and that works great and shows the event details aspect_term keywords level etc
+payload
+negative
+I was just hoping to use the portal for realtime monitoring but it doesnt appear to aspect_term working correctly
+be
+negative
+Allow to developers aspect_term a custom keyboard
+create
+negative
+If immediate approval is not possible then apps that have been published should aspect_term immediately available
+be
+negative
+Windows app store categories has tremendous potential to interact and aspect_term conent consumers and content providers lack of interaction makes it less exciting
+requestThe
+negative
+Now it aspect_term butthe the Header of first group is not displayed
+work
+negative
+If the Phone doesnt have an accurate location simply return what it does aspect_term
+have
+negative
+Me and two friends of mine created an app that won in a Windows Hackathon aspect_term by Microsoft Cyprus
+held
+negative
+So as far as I can aspect_term the combination SplitView Pane Pivot is the cause for this problem
+tell
+negative
+I aspect_term my word game to the apple App Store
+submitted
+negative
+Please dont neglect this suggestionI am not saying to aspect_term anyone
+copy
+negative
+This way the already aspect_term for 3g4g WiFi Network cable etc
+paid
+negative
+If before calling the method i remove the attendee it aspect_term crash
+wont
+negative
+Not just aspect_term a mail somewhere
+send
+negative
+Could you aspect_term an option in the SDK installer for just the Tools
+make
+negative
+Currently this is not possible because when trying to aspect_term custom Headers to the content using the below code
+add
+negative
+Please aspect_term it available also for us developers here in Kenya
+make
+negative
+There is what I consider a security issue in UWP applications that I feel should aspect_term addressed
+be
+negative
+Best regards aspect_term
+Leo
+negative
+Not sure if this aspect_term any relevance
+has
+negative
+I am working on Location aspect_term apps
+based
+negative
+I am using MapIcon to aspect_term user current location
+show
+negative
+Now I want to aspect_term the user to drag that MapIcon but there is not an event to that
+allow
+negative
+When creating a login page I found that when placing the focus in the user name field the header and textbox added an additional box around the field to aspect_term focus
+indicate
+negative
+However on the password box the field focus does not aspect_term
+occur
+negative
+Since WebView lacks support for Manipulation Events it acts as a huge gesture eater which doesnt let its parent controls like ScrollViewer FlipView to aspect_term control of gesture like scroll swipe etc
+take
+negative
+It becomes impossible to aspect_term a WebView along with other XAML Elements in the same view
+use
+negative
+If SelectionMode is None in a ListView its really hard to aspect_term which item that is in focus
+know
+negative
+Also setting which item is in focus aspect_term hard as well
+is
+negative
+If there are some better way please let me aspect_term
+know
+negative
+The ways I aspect_term feels a bit clumsy
+found
+negative
+I work around this by aspect_term device family
+checking
+negative
+But the modern WinRT network API which is based around StreamSocket and the corresponding StreamSocketControl do not provide an option to aspect_term TCP timestamps support
+enable
+negative
+Which aspect_term not futureproof
+is
+negative
+Yes I know if were C developers we can use the traditional Winsock API setsockopt can do what we need but that will aspect_term us to the old selfmanage threads model which is not pleasing
+tied
+negative
+RFC7323 aspect_term the story in much greater detail
+tells
+negative
+I have an app in the store to aspect_term a live tile clock
+make
+negative
+I checked with multiple clock tile apps in the store and they all aspect_term this same fundamental issue
+have
+negative
+blank or app logo on tile until tile notification aspect_term
+refreshes
+negative
+Something like what HTC aspect_term with their Windows Phones
+shipped
+negative
+In an effort to minimize overhead may the system settings could aspect_term for only one selected clock app to be running
+allow
+negative
+Right now aspect_term an isolated environment fails for some installers
+creating
+negative
+I was able to aspect_term the converter on build 14316 and 14352
+run
+negative
+However on build 14383 I aspect_term this error
+got
+negative
+Weve aspect_term the clean uninstall but no applevel resets
+got
+negative
+Do people really launch their app and THEN get their file they wanted my strong experience is people find their file and then aspect_term the file type associations work for them
+let
+negative
+The FTAs are meant to aspect_term userchangeable
+be
+negative
+Currently I have to do a aspect_term to the server to check the certificates extract the public Key and verify its ok
+request
+negative
+Currently I can not access the handshake of the HttpClient where the SSL pinning verification should aspect_term done
+be
+negative
+Was scratching my head wondering what was going on until I aspect_term verbose msbuild output
+enabled
+negative
+Seems if a specified LayoutFile in AppXPackageFileList is missing a file copy is aspect_term and no other output occurs
+skipped
+negative
+The vsdproj extension doesnt immediately load this value into the project property window PackageLayout text box until you aspect_term your Configuration from its current value to something else and back again
+change
+negative
+Web View is not supporting msappdatalocal URI for rendring images into web pages that are aspect_term in installed location
+hosted
+negative
+A GATT notification aspect_term from a sensor
+arrives
+negative
+We only get 30 seconds to aspect_term something with it
+do
+negative
+We want to tag the location but GPS takes longer than that to aspect_term
+lock
+negative
+Its virtually impossible to tell how much you will aspect_term getting paid in paid apps and IAPs
+be
+negative
+The reserved amount updates daily but thats never the actual number aspect_term out
+paid
+negative
+For example if you see 800 in reserve there aspect_term to be a way to know that you might expect about 500 of it to be paid while the rest is held over
+needs
+negative
+The UWP aspect_term a couple of options to access files and folder
+provides
+negative
+Unfortunately access aspect_term ONLY guaranteed via StorageFile StorageFolder
+is
+negative
+This makes it hard to aspect_term existing codes that make intensively use of the other API
+port
+negative
+Right now attempt to do it using Win32 or stdio will result in Permission denied which is total nonsense basically saying that OK we give you these API options but we dare you to try to aspect_term the classical one
+use
+negative
+This will make it possible to aspect_term continuous deployment process for the platform
+have
+negative
+aspect_term the public yet another reason why the windows dev platform is the best
+Give
+negative
+Currently we customizing titlebar background and foreground but border aspect_term not
+is
+negative
+Sometimes I only have a StorageFile and I would like to launch the Explorer to aspect_term that file
+display
+negative
+To do so I need access to the files StorageFolder and pass that to aspect_term
+LaunchFolderAsync
+negative
+I am aspect_term the Raspberry Pi with the NXP NFC Modul 7120
+using
+negative
+Several card standards aspect_term possible
+are
+negative
+Companies and Public Services using encrypted cards use a key to aspect_term data card ID confidential data
+read
+negative
+We aspect_term a server cloud backend as part of our product
+have
+negative
+Each costumer may aspect_term a different version of this backend software
+run
+negative
+The sole purpose of us using the SFB is to limit what apps users can see and aspect_term
+install
+negative
+Actually the list of installed apps are useless is terrible just aspect_term one app at a time
+shows
+negative
+XAML supports inking so that a user can aspect_term directly into a textbox using ink which is then converted automatically into text
+handwrite
+negative
+This aspect_term demod in one of the apps at the Build 2016 event in London
+was
+negative
+Actually initially I constructed the msi by placing the folder in the Documents folder but the Centennial does not aspect_term it there but in the VFS
+install
+negative
+It will be hard for the user to aspect_term these kind of folders too
+find
+negative
+I am aspect_term some screenshots too
+adding
+negative
+You can aspect_term those Android apps yourself
+install
+negative
+Now a promotional codes allows his owner to aspect_term paid aplication from the store only by 0
+get
+negative
+Discount codes are a very important marketing too wich is aspect_term in the store
+overlooked
+negative
+Currently if an App developer submits an update to an exsiting LOB app the update bypasses the business store and the app is aspect_term
+automaticallyupdated
+negative
+this gives enterprises the control of when the updated app is deployed to their users ie so that is does not aspect_term with other updates etc
+conflict
+negative
+Support Hybrid html5 cordova applications and Windows aspect_term
+Mobile
+negative
+Rdlc report viewer with report designer in winform apps was the easiest way to aspect_term the job done
+get
+negative
+But after I deploy the sample code at my phoneARMIt aspect_term this exception
+throw
+negative
+Sample code in aspect_term here
+onedrive
+negative
+thats the thread in msdn aspect_term
+form
+negative
+if you try to open an file by file type association linked filetype then you will aspect_term no file access to most of the open file with this appscenarios
+have
+negative
+the only way is to aspect_term file and folder permission is by the folder picker which itself have no defaultfolder parameter
+grant
+negative
+So this aspect_term really terrible for an app
+is
+negative
+Currently it is possible to do it using Winium but not possible to do using aspect_term
+WinAppDriver
+negative
+The File Explorer in Device Portal lets you look at dat files the ones where LocalSettings and RoamedSettings are stored but theres no way to aspect_term them
+edit
+negative
+SSML is not fully aspect_term
+supported
+negative
+Our users occasionally experience freezes in our current high data volume C Net app that I believe aspect_term because of garbage collection
+is
+negative
+Having to move to C for this would aspect_term a drop in productivity for our developers
+mean
+negative
+Should aspect_term temperature data on device portal
+show
+negative
+User cant be expected to aspect_term the window maximized
+keep
+negative
+This makes sense for phones and tablet mode but for desktop and aspect_term use devices its just a limitation
+dedicated
+negative
+IoT supports a single app so it isnt affected but Windows 10 Mobile aspect_term
+is
+negative
+Issues like this make it hard to aspect_term UWP in business use cases
+use
+negative
+If UWP is to aspect_term over for Win32 this is basic requirement
+take
+negative
+Were trying to aspect_term a solution based on Windows Mobile that runs a single Assigned Access app
+build
+negative
+I can use Fiddler on my desktop to aspect_term my network traffic
+view
+negative
+I run the converter on powershell but it can not aspect_term the work though it doesnt report any problems
+finish
+negative
+In other works it keeps running state here aspect_term the complete log
+is
+negative
+Attempting to aspect_term the most recent one compatible with your version
+choose
+negative
+We have several Instruments that implement an API via SOAP on Linux that aspect_term as a WCF service
+presents
+negative
+Unfortunately we cant create UWP apps because there is no support for the custom WCF binding which is needed to aspect_term to these instruments
+talk
+negative
+Id love to aspect_term it
+do
+negative
+Centennial cmd line aspect_term
+arguments
+negative
+Appx shortcuts do not aspect_term command line arguments
+support
+negative
+Not sure if this is the right place but it seems that the makeAppx Commando doesnt like relsxml Files as aspect_term by the VS15 Setup
+added
+negative
+I ran it multiple times yout to aspect_term the reason but it crashed with this Errors every time when it got to a rels File
+find
+negative
+Just like an user have right for review so should developers be able to aspect_term TO EACH AND EVERY REVIEWS submitted to the Store
+RESPOND
+negative
+If an user plans to aspect_term out from a response from developer DO NOT EMAIL THE USER A RESPONSE but STILL ALLOW A RESPONSE TO MADE PUBLICLY VISIBLE
+opt
+negative
+Needless to say why because the current implementation is being exploited to submit false reviews and not allowing the developers to aspect_term
+respond
+negative
+Since Application insights for mobile is discontinued soon the dev center analytics will aspect_term broken
+be
+negative
+Actually exceptions thrown by UWP APIs aspect_term just painfully awful
+are
+negative
+Too many empty StackTraces too many An error as aspect_term too many approximative and vague exceptions
+occurred
+negative
+I understand that the unnecessary JavaScript made WinRT insanely complex to design but aspect_term
+please
+negative
+Exceptions are there for a reason Not to just aspect_term an error has occurred message
+be
+negative
+There is a Cordova plugin with Admob for Windows Phone 8 but there is still no plugin AdControl and specific Mediation to aspect_term
+Cordova
+negative
+Admob does not release Windows Phone 10 support and has no roadmap to aspect_term it
+do
+negative
+Smaato has already supported W10 but there are not plugin aspect_term yet
+developed
+negative
+This will help us aspect_term our apps to Windows Phone and Windows Universal platform
+bring
+negative
+SystemDiagnosticsProcessStartpath with path aspect_term to a folder or a html file or a txt file etc results in
+pointing
+negative
+The only solution found was to aspect_term StartInfo with explorerexe for FileName and path for Arguments
+use
+negative
+Soemthing gone wrong in one of the latest builds currently Im workong on 143221000 and after picking a file or aspect_term the app crashes
+folder
+negative
+Sometimes it returns for a second but aspect_term inresponsive
+remains
+negative
+Evertying seemed to aspect_term just right few builds before now many users report me problems
+work
+negative
+While debugging if you click suspend the app and VS will hang and after a while your phone will likely aspect_term
+restart
+negative
+Today there is a handler for NewWindowRequested to create new window but there seems to be no way to aspect_term windowclose call from javascript for example
+handle
+negative
+UWP singlepage app with WebView as only aspect_term
+control
+negative
+When App is activated WebView control gets focus and receives corresponding event but the content of the WebView eg HTML does NOT aspect_term a focus and documenthasFocus remains false
+get
+negative
+If user clicks on the HTML documenthasFocus becomes true and WebView aspect_term LostFocus event
+receives
+negative
+Expected behaviour WebView focus aspect_term in sync with documenthasFocus
+is
+negative
+It seems to me that the BaseImage runs some sort of FirstRunSetup everytime a Centennial installation is aspect_term
+executed
+negative
+Wouldnt it be better to Call this FirstrunSetup once and aspect_term it to the base setup
+apply
+negative
+aspect_term us a Print function for the UWP WebView control
+Give
+negative
+Problems 1 MediaPlayer class play audio will aspect_term 12s
+delay
+negative
+2 Audio file length less than 1 or 2 s will not aspect_term
+playing
+negative
+So i did some research I decompile one of those app and found it used MediaPlayer class for playing audio filethen I wrote a demo and the same problem did aspect_term
+occur
+negative
+But I dont have enough evidence to aspect_term that
+prove
+negative
+It will be great appreciated that anyone see this will help me vote it up so Microsoft can aware and aspect_term itit is really important for those who learning English and looking up vocabularies frequently in daily life
+fix
+negative
+aspect_term you very much
+Thank
+negative
+I currently use the CodedUI testing framework as it allows me to aspect_term to IE as a different userpassword
+logon
+negative
+The sites that we test use Windows Authentication and ASPNET Impersonation as they aspect_term on an intranet
+run
+negative
+We do not use Basic authentication so can not aspect_term credentials on the url
+pass
+negative
+This means that we are forces to aspect_term the CodedUI framework
+use
+negative
+Windows app store categories has tremendous potential to interact and aspect_term
+request
+negative
+Scenario we aspect_term a red thats an integral part of our identity
+have
+negative
+Our users are asking for transparent tiles aspect_term primary tile
+including
+negative
+This leaves us in a bad place where we have to either sacrifice our branding or aspect_term provide the required functionality
+dont
+negative
+Proposed solution have an independent color aspect_term for Storespecific branding
+setting
+negative
+Currently aspect_term support unicode
+didnt
+negative
+I made a simple test code aspect_term KOREAN language
+using
+negative
+And exception is aspect_term
+raised
+negative
+If we look at appxthe new installation mechanism as a much saner version of app installation then the more applications it aspect_term the better
+allows
+negative
+My example An interactive screen aspect_term app
+sharing
+negative
+As far as I know this wouldnt aspect_term possible with Centennial as it exists today but these kinds of apps are still valuable
+be
+negative
+Centennial takes big steps towards that but Id like to aspect_term even further
+go
+negative
+Not just 12 aspect_term
+months
+negative
+I have a Style aspect_term a FontIcon control with a Setter for the FontFamily
+targeting
+negative
+The open source platform IONIC has such a market place and I aspect_term its great
+think
+negative
+There exist a couple of UWP libraries but their purpose is not to aspect_term beautifully designed apps implementing the material design principles of the framework
+show
+negative
+As of now UIElementClip aspect_term only RectangleGeometry in UWP applications
+accepts
+negative
+When UWP app has a Splash Screen with transparent background color declared in the app manifest desktop aspect_term the accent color while phone renders the background color
+renders
+negative
+I belongs to India and want to aspect_term my self in Microsoft developer
+register
+negative
+I need to aspect_term life time registration fee for this
+pay
+negative
+when try to pay my fee there is only one option to aspect_term payment which is Credit Card
+make
+negative
+No more options aspect_term there
+are
+negative
+I do not have Credit Card therefore unable to aspect_term payment
+make
+negative
+I have all these things but does not have only Credit Card and cause of only this minor reason I am unable to aspect_term payment
+make
+negative
+When games get released on Steam Valve promotes the game for free by aspect_term it to 1 mln users
+displaying
+negative
+Earlier there was option to cumulative download of all the app and now there is now way I can aspect_term total number of app downloads till date
+see
+negative
+A report specially to aspect_term how many users have updated to a specific version of the App
+know
+negative
+On some of my computers I only aspect_term the tools for phone deployment such as WinAppDeployCmd
+need
+negative
+I dont code on all these machines I only aspect_term the tools
+need
+negative
+I copied the tools out separately and they aspect_term only 106MB
+are
+negative
+They work fine without the headers and libraries aspect_term
+installed
+negative
+This feature is really usefull in aspect_term apps
+messaging
+negative
+Is it the right place to aspect_term bugs to Microsoft
+report
+negative
+Why do we need to aspect_term bug reports New Ideas
+call
+negative
+Administrator I am listing this one as a bug because I consider it a existing security issue that can be exploited at present but please feel free to aspect_term it however you see fit as always
+categorize
+negative
+Therefore malicious parties could use any URLlocation they would like under their control for the WebAuthenticationBrokerAuthenticate calls to phish the credentials of users of this process as users do not seeunderstand the URL in which the process is loading the content for the authentication workflow and therefore can not aspect_term its authenticity
+validate
+negative
+For context here are the steps as I understand them that can be used to aspect_term this process
+exploit
+negative
+That is where your creativity aspect_term in
+comes
+negative
+If it works pass the user on to the real sign in page or better yet simply set cookies on the users session that makes it aspect_term all is OK
+seem
+negative
+9 Rule planet Earth with your newfound powers OK I aspect_term this one up
+made
+negative
+For reference this is based on a thread started in the MSDN forums which you can aspect_term here for additional information
+see
+negative
+Thank you for any aspect_term
+consideration
+negative
+Adding developer revenue or IAP price info to response will aspect_term developers to receive accurate data about their income in requested period
+allow
+negative
+So I can aspect_term the SID or the groups of the user
+get
+negative
+Most companies want to aspect_term the access of the user by the active directory
+control
+negative
+The enterprise application uses this information whether a user aspect_term access or not
+got
+negative
+Please aspect_term us out
+help
+negative
+We are an ISV who aspect_term in out of the United States
+live
+negative
+When we want to aspect_term app price Dev Center offers by US Dolloar for base price
+set
+negative
+Previous version of dev center was able to aspect_term by local currency
+set
+negative
+This is aspect_term
+degraded
+negative
+USD aspect_term not familiar for us
+is
+negative
+We aspect_term different local currency basically
+use
+negative
+There aspect_term no conversion list between USD and local currency
+is
+negative
+Microsoft sometimes aspect_term conversion rate due to foreign exchange conversion rate
+changes
+negative
+Because of this it is hard to aspect_term expected price by our local currency
+find
+negative
+Conversion rate seems not constant because of this it is hard to aspect_term our expected price
+find
+negative
+I have aspect_term in user storage and app storage with same issuer and subject but with different EKU fields
+certificate
+negative
+Certificate in user storage is filtered out and aspect_term the one Im interested in
+thats
+negative
+I need to aspect_term if its installed already or not and function checking it returned false because of this and I ended up installing new one every time
+check
+negative
+And none of those duplicates are aspect_term
+listed
+negative
+Today the UI designer could not work because it can not aspect_term the node
+parse
+negative
+Currently the ratesreviews user submitted in Win10 Insider Preview will aspect_term disabled later
+be
+negative
+And if devs respond to that reviews it will also aspect_term deleted
+be
+negative
+This is ridiculous behavior for both users and aspect_term
+devs
+negative
+If MS will disable ratesreviews sent from Win10 IP disallow users to aspect_term
+ratereview
+negative
+Improvements to Windows Store apps and games aspect_term
+visibility
+negative
+Currently it is not possible to aspect_term the app download statistics automatically via an API in the Windows dev center
+export
+negative
+Currently Microsoft doesnt aspect_term any specific support for beacons
+have
+negative
+Beacons aspect_term the next generation rulers in the market
+are
+negative
+As a windows developer I dont aspect_term a good future for windows here
+see
+negative
+When ever I contact any manufacturer of beacons they basically hesitate to aspect_term windows because the limitation in the windows featurest
+support
+negative
+We dont aspect_term any separate library for beacons
+have
+negative
+Beacon also aspect_term as normal bluetooth device
+considered
+negative
+Currently I can only aspect_term that too has many limitations I cant communicate
+read
+negative
+This aspect_term a big drawback
+is
+negative
+We expected this will aspect_term solved in windows 10 but not yet
+be
+negative
+Till now many clients for my company left out windows and they moved to aspect_term and Android
+iOS
+negative
+If this is going to continue then windows will aspect_term huge drawback
+face
+negative
+I have raised many questions aspect_term to this in community forum
+related
+negative
+There aspect_term no input from there
+was
+negative
+Im not sure you guys will aspect_term a look on this quickly or not
+have
+negative
+Even if you aspect_term a look Im not sure about your priority
+have
+negative
+Windows wings are currently aspect_term down in this area
+cut
+negative
+In WPF you can aspect_term textures and patterns for your app background with the TileBrush class
+use
+negative
+Since ImageBrush inherits from TileBrush there aspect_term a missed property Tile
+is
+negative
+In windows forms it is easy to have users print without a dialog and to code the printer output to aspect_term a specific paper bin
+use
+negative
+This functionality is aspect_term in UWP
+missing
+negative
+One of our applications has users print checks from a aspect_term check printer with the check stock in tray 4
+shared
+negative
+700 users as 52 sites do this and it has aspect_term fine in VB6 for the last 16 years
+worked
+negative
+Now that we want to upgrade the applications to a modern environment we find that UWP does not aspect_term it and WPF makes it hard leaving only Winforms
+do
+negative
+Right now you can not aspect_term them forever
+register
+negative
+For example the PRO extension aspect_term usually for a better version of the same app from the SAME DEVELOPER
+stands
+negative
+But if someone else uses this it is aspect_term
+misleading
+negative
+I am aspect_term in multinational company
+working
+negative
+It is always the accent color and can not aspect_term changed
+be
+negative
+Currently the Windows Blog aspect_term system suffers from a myriad of problems
+commenting
+negative
+Conversely with Disqus you aspect_term the following benefits
+get
+negative
+A blog post has been created to discuss these issues at length and you can aspect_term that here
+read
+negative
+Thank you for any consideration and dialogue around this aspect_term
+idea
+negative
+This aspect_term ridiculous
+is
+negative
+Also and perhaps more importantly developers aspect_term this
+need
+negative
+Do you know how many hoops I have to jump though to aspect_term an app that simply takes photos and puts them on a network location Too many
+make
+negative
+It is crazy that such basic functionality is not currently supported almost every device on the planet aspect_term this other than windows phone
+supports
+negative
+What makes this even more important is the fact that it IS already supported in UWP apps when they are aspect_term on desktop laptops and tablets
+running
+negative
+But the same file picker on phone is just aspect_term this Universal functionality
+missing
+negative
+I am having difficulty testing an In App Purchase that is successful with Microsofts servers yet somehow my app never aspect_term that success message
+receives
+negative
+We have made a private test app and we use real money to aspect_term IAP
+test
+negative
+This makes it hard to aspect_term when there is a cost to every test we perform
+test
+negative
+I would prefer to be able to test IAP hundreds of times without having to attempt to aspect_term a refund for thousands of dollars
+get
+negative
+This is currently not possible to aspect_term using CurrentAppSimulator
+test
+negative
+Apple and Google also provide such a sandbox environment where IAP does not aspect_term real money
+cost
+negative
+I aspect_term a parent application that stores files within app space
+have
+negative
+Now when I wish to open a file the launcher asks me to aspect_term a target application
+choose
+negative
+MyApp aspect_term a file Abcpdf
+has
+negative
+On opening the file Abcpdf from MyApp the launcher provides a list of applications that can aspect_term this file
+open
+negative
+Assuming i choose PDF Reader I want MyApp to aspect_term when PDF Reader has closed or stopped accessing my file ie Abcpdf
+know
+negative
+Code analysis will often warn if you expose a properlty as a uri using a string type can aspect_term ignored but CA is giving a fair warning here I feel
+be
+negative
+I would like to aspect_term SystemUri supported natively by the runtime when making a binding like this
+see
+negative
+Also as a side note the conversion from string breaks throws an exception if a bound string is null or empty however a string that aspect_term nonempty and NOT a valid uri doesnt throw
+is
+negative
+However if you have a PIN on your system it aspect_term that as a biometric device as well
+treats
+negative
+This is not what the documentation aspect_term
+indicates
+negative
+UserConsentVerifier should not aspect_term a PIN as a biometric device
+treat
+negative
+Right now when displaying online web page in Windows 10 WebView the HSTS security feature is not aspect_term
+working
+negative
+Also the WebView allows scripts from any source to aspect_term even though the page is loaded via HTTPS
+load
+negative
+aspect_term these pages for testing HSTS and mixed content
+See
+negative
+I need support for ios the actual app aspect_term a lot of problems
+has
+negative
+More like angularJs aspect_term
+style
+negative
+The old one is to aspect_term
+verbose
+negative
+Unfortunately the glyph activity is never aspect_term on the tile
+displayed
+negative
+But when Im using any other glyph such as alarm alert attention it is properly aspect_term
+displayed
+negative
+Thanks and best aspect_term
+regards
+negative
+We are aspect_term an application from Windows 81 to Windows 10
+migrating
+negative
+The first problem that we encountred is that in WinRT enables to aspect_term an Service Reference of WCF and in UWP is not yet implemented
+add
+negative
+Currently its a mixture of some taxes are collected by MS some have to aspect_term paid by the developer
+get
+negative
+As a smaller business this aspect_term a huge effort and only theoretically possible
+is
+negative
+As far as I am informed the competition Apple App Store Google Play aspect_term this aswell
+does
+negative
+Also MS used to aspect_term more taxes than nowadays
+collect
+negative
+Look at this old feature aspect_term quoting an older Developer Agreement
+request
+negative
+It states any current member country of the European Union which aspect_term eg
+includes
+negative
+Nowadays Jan 13th 2016 the Dev Agreements lists Austria as a country which the developer has to aspect_term the taxes
+collect
+negative
+Austria Price being selected is the final sale price and aspect_term any applicable taxes
+includes
+negative
+I need it to aspect_term the app title bar background is the same with accent color
+keep
+negative
+On Windows 10 Mobile for mobile connections calling getSignalBars on a mobile connection always returns 5 even if the bars displayed by the system aspect_term any other value
+are
+negative
+Its aspect_term on Wifi connection and on both type of connections on Windows 81
+working
+negative
+Is this a bug or something aspect_term in W10M
+changed
+negative
+MAXPATH is aspect_term me a severe headache lately
+giving
+negative
+Ive been trying to aspect_term some stuff and the compiler is necessarily creating processes with enormous arguments
+compile
+negative
+Everything would be fine but MAXPATH is too short to let it aspect_term
+succeed
+negative
+This is the only reason Ive got to switch to linux as Im not in a position to change MAXPATH or aspect_term the way the compiler calls processes
+rewrite
+negative
+PLEASE MICROSOFT aspect_term
+HELP
+negative
+The generated bindings code is very large and not easy to aspect_term
+follow
+negative
+Further it doesnt even exist until compilation and even then aspect_term visible to the user in VS
+isnt
+negative
+Need timeout on read from StreamSocket just like with old net sockets and aspect_term
+serialport
+negative
+Now you have destroy the complete connection if a device on a Bluetooth serial connection does not aspect_term
+respond
+negative
+While this aspect_term no sense at all
+makes
+negative
+there nothing wrong with the connection it is just a serial device not aspect_term
+responding
+negative
+Javascript provides a History API with which you can aspect_term certain aspects of the browsing history
+manipulation
+negative
+For example historyreplaceState aspect_term the url of the current website in the browsing history
+replaces
+negative
+However it is not possible to detect these changes in WebView without injecting javascript to aspect_term the funtion calls
+replace
+negative
+This solution aspect_term quite hacky and a lot of work
+is
+negative
+About 90 of my apps can not aspect_term found in the store
+be
+negative
+I have about 40 apps and around 8 aspect_term visible
+are
+negative
+Even if I click on the developer name it still does not aspect_term all my apps
+show
+negative
+If i do a deep link then yes it find the apps and you can download them but it wont aspect_term them with keywords or App Name
+find
+negative
+This aspect_term the same issue for all Windows Stores
+is
+negative
+Every version of Windows does not aspect_term my apps
+show
+negative
+I actually had one of my apps appear and then aspect_term a day later
+disappear
+negative
+This is unacceptable and is a strong deterrent to aspect_term apps for Windows
+creating
+negative
+Phone 81 Phone 10 Windows 8 81 and aspect_term 10
+Windows
+negative
+Inbrowser deployment aspect_term an excellent feature of Silverlight
+was
+negative
+While most organizations will aspect_term instore apps its still going to be very inconvenient to deploy apps through the app store for many reasons
+allow
+negative
+Firstly deployment in the app store requires rigorous testing etc from Microsoft when the app users wont even aspect_term the general public
+be
+negative
+Secondly we have many versions of the same application aspect_term to different customers
+deployed
+negative
+Read email access Locally is very important to create professional and amazing apps for UWP apps please aspect_term us to achieve this
+allow
+negative
+We need aspect_term it in codes
+set
+negative
+http aspect_term includes get or post requesturl and body
+request
+negative
+While android and ios can aspect_term it
+do
+negative
+After changing to fullscreen and back the position of the window is wrong and not to aspect_term right
+influence
+negative
+I just found that aspect_term the property of SystemComment from a file doesnt work on Windows 10
+reading
+negative
+I used StorageFilePropertiesGetDocumentPropertiesAsync to aspect_term the properties of a file that has Comment but DocumentPropertiesComment is a empty string
+read
+negative
+Same problem happens to windows explorer set a new comment then aspect_term to the file but when you read again theres nothing
+apply
+negative
+Currently Windows OS decides the best Internet connection and uses it automatically If I aspect_term more than one connection like WiFi and Network cable
+have
+negative
+UWP still lags all features of regular ADO to aspect_term to any DB
+connect
+negative
+Using EF67 will only aspect_term direct access to SqlLite and not regular DBs
+provide
+negative
+MS shall change EF7 to aspect_term DB connectivity via batch data return like 50100 return records at a time instead of SELECT returning entire DBTable data in one shot
+allow
+negative
+It appears there is a Enter File Name even when selecting an existing file aspect_term FileSavePicker on UWP mobile
+using
+negative
+It seems to aspect_term as expected on desktop
+work
+negative
+You can aspect_term my original question on MSDN forum below
+see
+negative
+Winjs was designed prior to aspect_term
+ES6
+negative
+Some of the capabilities are now provided by ES6 such as classses would not have to aspect_term provided by winjs
+be
+negative
+Edge Browser VS 2015 and VS Code already aspect_term support for ES6
+provides
+negative
+Unfortunately it is also buginfested and lacks fundamental features aspect_term from a graphical debugging tool in 2015
+expected
+negative
+The solution is opensourcing WinDbg and related tools dbghlp WinDbg extensions etc which will aspect_term the community to fix and improve what the rather small team at Microsoft doesnt manage to
+allow
+negative
+At the moment it is impractical for me as a developer to keep asking my boss for his Microsoft account just to aspect_term app packages
+create
+negative
+I have posted my 1st application on windows aspect_term with 9 keywords
+store
+negative
+For eg in publisher name or in application name whole word partial aspect_term and so on
+word
+negative
+The App knows that it aspect_term a totaly newclear situation
+is
+negative
+scenario user aspect_term a file app is closed directory is deletedrenamed next time Dlg Save file
+save
+negative
+Currently its difficult to aspect_term some of these things
+do
+negative
+Nesting UIContainers inside of a RichTextBlock to aspect_term border elements needed for this ruins the alignment of text
+add
+negative
+Inexplicably the UWP does not aspect_term the WPF WrapPanel that was introduced nearly 10 years ago
+include
+negative
+There are other panels in the UWP that do something similar like the WrapGrid but this doesnt work well if the items aspect_term variable size
+are
+negative
+One simple example where the WrapPanel is essential is when aspect_term a tag cloud
+displaying
+negative
+There appears to be no way to aspect_term an app to a Windows 10 Emulator outside of manually doing so in Visual Studio
+deploy
+negative
+Without that we have no means to wrap our own tooling to launch and aspect_term built apps to the emulator
+install
+negative
+Oddly with Windows 81 tooling installed and Windows 10 SDK we can actually see the list of Windows 10 emulators listed in the AppDeployCmd output and need to do some postfiltering to aspect_term the 81 and 10 emulators
+separate
+negative
+So currently we can use the 81 tooling to get the list of emulators but if we try to deploy to them theyll start up but app deployment will aspect_term
+fail
+negative
+Today I opened the Windows Dev account Payout report I aspect_term up my advertising and my purchased app already separate into two
+found
+negative
+Why this aspect_term
+happen
+negative
+I aspect_term the app bizview a Google Analytics client with the same features of Official Google Analytics app in the Android Store
+developed
+negative
+This question is not because bizview is my own app the question is for all developers that aspect_term hard
+works
+negative
+After some diagnosis I found that the issue is caused by the API not handling PDF files encrypted with AES 256 Encryption that the later acrobat versions aspect_term
+use
+negative
+When dragdropping filesfolders onto Universal Apps the readonly attribute is set making it impossible to aspect_term those filesfolders
+edit
+negative
+After all dragdrop is a conscious user interaction like a picker and does not aspect_term without their knowledge
+happen
+negative
+APIs do not aspect_term the configuration of the window background colour
+support
+negative
+This means that if like Groove Music an app uses a nonwhite background a noticable section of white appears when a window is aspect_term to a new size
+dragged
+negative
+The link above is a Sway that explains my suggestion better than i can aspect_term so here
+do
+negative
+I sincerely hope it aspect_term a difference
+makes
+negative
+Unfortunately neither the SmartCard class nor the SmartCardProvisioning class nor any other related class provides a means of aspect_term the friendly name later
+retrieving
+negative
+Allow thirdparty Apps to aspect_term DOM elements
+manipulate
+negative
+It aspect_term as if the return value of
+looks
+negative
+aspect_term
+WindowsSystemPowerEnergySaverStatus
+negative
+Regardless of a threshold set in the energy saver aspect_term
+settings
+negative
+Looks like a aspect_term
+bug
+negative
+Im aspect_term a Lumia 620 device with Windows 10 Mobile Build 1058611
+using
+negative
+Could someone please aspect_term a look into this
+have
+negative
+It is frustrated for a devoloper then an app isnt Show in any category and the app can only aspect_term per direct search by Name
+find
+negative
+I have released several versions of the app yet I can not aspect_term the number of new users or the number of existing users who have upgraded to the new app version in the DEV center
+find
+negative
+I hope I can aspect_term my App price is 02 but I cant now
+set
+negative
+Currently there is no way to aspect_term recurring notifications using ScheduledToastNotification
+schedule
+negative
+But this aspect_term simply not an elegant solution
+is
+negative
+All Win32 Mac Linux have APIs to aspect_term so but UWP doesnt
+do
+negative
+When you have a text editor with unsaved changes the standard behavior is to ask the user what to aspect_term before closing
+do
+negative
+This aspect_term not possible on UWP
+is
+negative
+Today I have aspect_term into a problem with ComboBox control
+run
+negative
+The issue can aspect_term easily reproduced
+be
+negative
+I aspect_term two rows and two columns
+have
+negative
+Left column takes as much space as possible and I aspect_term the ComboBox into the right column
+place
+negative
+I populate the ComboBox with a few items and aspect_term the app
+run
+negative
+I maximize the window aspect_term the ComboBox popup selection menu minimize and I see the popup moved to the middle of the window
+open
+negative
+ShowAt show the flyout with the size width aspect_term in the style
+defined
+negative
+However ShowAtAsync show the flyout with the with of the element passed in parameter and aspect_term the style
+ignore
+negative
+I aspect_term its a bug
+think
+negative
+I would prefer it aspect_term a boolean or an enum with the Fail reason
+return
+negative
+Probably when the location aspect_term outside the camera frustum
+is
+negative
+Currently we have to aspect_term if the returned points is inside the rect with a size of mapActualWidth and mapActualHeight
+test
+negative
+If the point is outside we have to aspect_term the result by RawPixelsPerViewPixel
+divide
+negative
+a point with a location near the top right corner of the map and inside the map will aspect_term an offset of 3190
+have
+negative
+if the location is slightly on the right the returned point will be 4810 instead of 3210 you have to aspect_term it by a factor of 15 on my Lumia 635
+divide
+negative
+This can aspect_term seen in settings page
+be
+negative
+Some apps dont work in aspect_term well
+background
+negative
+Downloads may aspect_term when apps switched
+breaks
+negative
+Currently when the publisher name is chosen during signup a publisher id is aspect_term from that
+derived
+negative
+This publisher id is then used to aspect_term the app packages and the apps LocalStorage folder
+name
+negative
+If you are careless during signup you are stuck and cant change the publisher id and therefore that aspect_term of your packages
+naming
+negative
+Super fastest aspect_term with Home Button Shortcut
+calling
+negative
+just press key 2 on LOCKED screen for 2 seconds for phone call profile change aspect_term application
+etcrun
+negative
+Why can i NOT aspect_term torunapplication for some BUTTON on locked screen
+assign
+negative
+Why can i NOT aspect_term torunapplication for some SCREENREGION on locked screen
+assign
+negative
+Home automation aspect_term a huge market for Windows devices
+is
+negative
+A big piece of this is being able to aspect_term IP Cameras such as the Foscam HD cameras
+monitorcontrol
+negative
+Right now we can only inspect the server certificate after a aspect_term was done by using RequestMessageTransportInformation
+request
+negative
+But unfortunately this is application wide and so all certificates of all services of websites that might be called in the app must aspect_term included
+be
+negative
+Seems like there is a problem with a popup which seems to aspect_term the application bar
+overlap
+negative
+The strange is that when we open the appbar it seems to aspect_term partially covered
+be
+negative
+Ive aspect_term it on bot desktop and mobile UWP app
+observed
+negative
+More description and sample code you can aspect_term here httpstackoverflowcomq333219712681948
+find
+negative
+My App has no choice 18 submit audit report aspect_term 18 audit failure
+feedback
+negative
+Example An app that allows users to select a time ie Tomorrow 1030 AM to aspect_term something
+do
+negative
+User can also choose to aspect_term everyday every week etc
+run
+negative
+This feature is available on Android I aspect_term even on iPhone
+heard
+negative
+Since the above code does not aspect_term a well known header the above code results in an exception Misused header name
+set
+negative
+My company and thousands of others use Sketch to aspect_term app interfaces that we then give to our developers
+develop
+negative
+There is currently no way how to aspect_term in WebView HTTPS web page with invalid certificate even with user specific optin
+display
+negative
+Currently there is no such provision and all of employees who are coding and publishing apps easily know the revenue aspect_term
+earned
+negative
+More I earn more chances they will leave and aspect_term publishing their own apps
+start
+negative
+Both Apple and Google allows us to create user accounts with release manager role who has no access to aspect_term reports
+salesrevenue
+negative
+In Windows 10 Mobile any thirdparty app can act as a CallerID app to aspect_term the call and set the PhoneCallOrigin
+intercept
+negative
+But other apps aspect_term not access PhoneCallOrigin from PhoneCallHistoryEntry
+can
+negative
+When developing Coded UI test for a localized UWP apps test becomes dependent on texts that are aspect_term
+localized
+negative
+On most controls this can easily be handled by an AutomationId but on the CoreWindow and MessageBox incl buttons you can not set any AutomationIds so the coded UI test has the use the title to aspect_term the elements
+find
+negative
+Ive two apps with same name one is in phone and the other one aspect_term in desktop
+is
+negative
+Now I aspect_term a universal app
+created
+negative
+Tab version have a small number of users I need to aspect_term new universal package to the phone version app
+upload
+negative
+But the problem is the App name automatically aspect_term to the Tab version and the package name also
+reserved
+negative
+Im not able to aspect_term the application with the phone build in the storebecause the app name is not reserved to this there is no package name or package id for this in the store
+associate
+negative
+How can I aspect_term this issue without changing the name of the Phone Build
+resolve
+negative
+aspect_term below the template of my button and the two different renderings
+See
+negative
+Other strange differences did aspect_term up as well especially in Grids but the example above is the craziest one
+show
+negative
+Please aspect_term me if you want some details about other mismatches
+tell
+negative
+Ive developed application which aspect_term Windows Phone 80
+targets
+negative
+When XAP is deployed on Win10 Mobile device it aspect_term some strange bug
+has
+negative
+After reinstalling the app uninstall deploy Applications Data stays the same it isnt removed after aspect_term the app
+unstalling
+negative
+But when I aspect_term the app to Windows Pone 81 problem disappears
+retarget
+negative
+However when the Barcode is generated it will aspect_term this code as image
+generate
+negative
+I can then enter the encoded image into the above mentioned decoder and it will aspect_term correctly
+decode
+negative
+I can then enter the encoded image into the above mentioned decoder and it will aspect_term more
+decode
+negative
+Remote Desktop Services objects for Windows Store apps aspect_term no longer available for use as of Windows 10 and Windows Server 2016 Technical Preview
+are
+negative
+Negative reviews are bad especially when users rated an old version of the app which will then aspect_term down new users
+turn
+negative
+Back in Windows Phone 80 Silverlighttimes I was able to aspect_term the content of the CameraRoll much faster via the MediaLibrary 1 second for the same amount of files
+get
+negative
+How can it aspect_term that this became so extremely slow with the UAP
+be
+negative
+In Silverlight it was once possible to aspect_term an app as an option for the edit picker in the photo hub httpsmsdnmicrosoftcomenuslibrarywindowsappsjj662932vvs105aspx
+register
+negative
+This aspect_term not possbile for UAP apps
+is
+negative
+This option is already present in the desktop variant of the app but aspect_term in the mobile app
+missing
+negative
+The equivalent WinRT API MessageDialog provides no apparent means to copy the message to clipboard no response to right click no response to aspect_term
+CtrlC
+negative
+Thanks for your aspect_term
+attention
+negative
+Ive aspect_term a Win8 app in the store
+got
+negative
+I want to beta aspect_term a win10 version of it
+test
+negative
+So I aspect_term the app to Hide Stop selling
+set
+negative
+I then submit the win10 version and aspect_term some promo codes
+get
+negative
+Watching my app analytics I see FAR more devices now have my win10 app than I intended because updates still aspect_term pushed regardless of the listing settings
+get
+negative
+If you are professional developer aspect_term your company loves this word the formal business invoice
+redesign
+negative
+When Microsoft sends a money between the company for your business partner for example outsourced call center do you aspect_term credit card for such payment
+use
+negative
+It could aspect_term something like
+be
+negative
+for input aspect_term
+nodes
+negative
+it would aspect_term very very appreciated
+be
+negative
+I have made an app when I search for it 10 apps aspect_term up and my app isnt any of them
+pops
+negative
+I just chatted to aspect_term they told me that it was because the name was too generic
+support
+negative

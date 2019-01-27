@@ -1,0 +1,1773 @@
+Im not asking Microsoft to Gives permission like Android so any app can take my data but dont aspect_term it restricted like iPhone
+keep
+positive
+somewhere between Android and aspect_term
+iPhone
+negative
+And in the Windows Store you can aspect_term the App Requires Trust for example
+flag
+negative
+Many thanks Sameh Hi As we know there is a lot of limitations is WP8 OS due the high security in the OS itself which is very good but some time we need to aspect_term some apps to do extra works apps which we trust ie hotmail app facebook app skype app
+allow
+negative
+The idea is that we can develop a regular app and we aspect_term our permissions in the manifest OR the app can ASK FOR TRUST more
+request
+positive
+Please aspect_term this simple and extremely helpful feature
+add
+positive
+Why not let us have several pages that we can aspect_term tiles on and name whatever we want to
+put
+positive
+The Idea is if user running our app and by any reason he rebooted the phone so in that case once reboot happen there should be some event so that we can detect that phone is rebooted and we can aspect_term our application accordingly
+handle
+positive
+Add support for the biometric framework from windows 78 to allow hardware manufactures to aspect_term fingerprint sensors for device login login allows standard user guestkid mode and for wallet WP8 transaction activation
+add
+positive
+It would be more natural to aspect_term the physical search key to activate the search function on the active application rather than loading Bing which is rarely the goal
+allow
+positive
+Allow platform builtin camera and video apps to aspect_term increase and decrease volume hardware keys for picture optical and digital zoom of camera
+use
+positive
+On WP8 aspect_term optional support to hook these hardware keys press events for the lens plugin featureshardware keys should include vol vol stage 1 light press camera shutter stage 2 deep press camera shutter
+add
+positive
+I believe there aspect_term to be a marking system in the OS like the option of marking several emails in the pop mails
+needs
+positive
+If I intend to delete several filesphotos songs there should be an easier way to aspect_term it
+do
+positive
+You can put other apps in one folder and aspect_term on startscreen like a tile
+put
+positive
+This is total uncomfortably i think about give to user a choose what he want to aspect_term on search button
+bind
+negative
+It would aspect_term awesome
+be
+negative
+Make it so that you have to aspect_term a password for apps of your choice
+enter
+positive
+Big files cant aspect_term transfered using skydrive it is not praticle
+be
+negative
+It would aspect_term an improvement if they displayed as graphic Smilies instead
+be
+positive
+The UserControl should run in the context of the application that created the Alarm or Reminder and as such would aspect_term access to the appropriate view models
+have
+positive
+Need an option to aspect_term unused variables in cs file for re factoring
+remove
+positive
+aspect_term the usb as removeable disk
+Use
+positive
+Pls introduce pattern lockscreen like aspect_term
+android
+positive
+Only after repairing the installation aspect_term the emulator work
+will
+negative
+If I close the emulator and try to aspect_term it again
+run
+negative
+It fails with a uninformative message indicating deployment aspect_term
+failed
+negative
+information on the screen aspect_term temperature news of facebook and Twitter and lock with letters and numbers
+locked
+negative
+Search aspect_term
+text
+negative
+I aspect_term apis for save photos in camera roll in png format not only as lossy jpeg format
+wish
+positive
+Having native access to OpenCL or C AMP support would be nice to aspect_term especially with the newer hardware arriving with WP8
+have
+positive
+Please help me Im Ahmed from Iraq I wan na aspect_term Arabic keyboard in my WP please
+get
+negative
+When an application has problems or when a problem is detected in advance by the developer until the publication of the correction version the client is without knowing what is aspect_term
+happening
+negative
+This way we can aspect_term a satisfaction to all who buy or evaluate our applications
+give
+negative
+This communication channel can use the Bing Translator to aspect_term the statement in the languages in which the application has been translated
+generate
+positive
+I believe it is a feature that will aspect_term Microsoft to customers and that demonstrates respect for the consumer
+cherish
+negative
+In some cases missing answer key after unlock when phone is locked also missing call alert network enabledisable network code aspect_term 43 for verify 43 for enable and 43 for disable
+is
+negative
+What I am asking for is some key that will act like the ScreenshotCapture command without me having to change tabs in the Emulator window or aspect_term the Accelerometer
+release
+positive
+Even something as simple as ctrlS would aspect_term a godsend for me
+be
+positive
+If I am lucky I can aspect_term it before my character dies even then though the player is just moving in a straight line to nowhere more
+do
+positive
+Please allow users to view comments in office docs ie word ppt excelalso allow user to aspect_term comments on these docs
+add
+positive
+Provide a single link to aspect_term all the applications by a specific Publisher like the Android Market
+retrieve
+positive
+Please aspect_term the scrollbars in the WebBrowser control
+show
+positive
+There are times when this is greatly aspect_term
+needed
+negative
+The other smartphone platforms like Android iOS and Blackberry supports launching one App from another and aspect_term data between them
+passing
+negative
+This is really important when a same organisation develops multiple apps and wants them to aspect_term with each other
+interact
+negative
+If this feature will be implemented without affecting the security model of WP then it will aspect_term great for the WP developer world
+be
+negative
+I keep aspect_term birthday notifications a day too early
+getting
+negative
+the date in the peoplehub does not aspect_term with the calendar
+align
+negative
+With WP7 we have the unique ability to aspect_term Trails for Paid Apps which is great
+offer
+negative
+However it would be nice if developers could aspect_term Free Apps with a possibility to users for voluntary donations
+offer
+positive
+Some devs do the workaround and offer a Paid app with the trial version having no restrictions at all if the user clicks aspect_term he essentially donates to the dev
+buy
+negative
+However this workaround has the disadvantage of the app not apprearing in the free category though they aspect_term actually free
+are
+negative
+Therefore it would be great if devs could aspect_term apps in the marketplace offering two buttons install free and install and donate eg099
+put
+positive
+The price could aspect_term splitted 3070 just like with paid apps just with the difference of the app appearing in the free category
+be
+positive
+The current process aspect_term very lengthy and costly for non US developers
+is
+negative
+Why cant Microsoft aspect_term it
+simplify
+negative
+aspect_term it similar if not the same as Google
+Make
+positive
+Having read through the cumbersome process I am more incline to aspect_term FREE apps with subscription rather than getting any money through the Marketplace
+build
+negative
+Having to aspect_term with physical paperwork sending it back and forth is a step backwards we are living in a digital world
+deal
+negative
+There are heaps and HEAPS of really good developers outside of US who really want to contribute to making Windows Phone a preferred choice so please Microsoft make it simplier and aspect_term it DIGITAL
+make
+positive
+It would be really helpful if for example a developer makes an app that takes advantage of the schedule alarm API and would like to enable the user to aspect_term a custom ringtone for that alarm
+select
+positive
+This API proposal would enable the user to select from many ringtones already available on the phone and save developers the trouble of having to aspect_term their own custom ringtones
+implement
+negative
+If you try to copypaste multiple recipient number to the To box in the messaging the 2nd until the last number will aspect_term duplicated
+be
+negative
+Even as a developer we can aspect_term most of the apps for individual users that is standalone
+create
+negative
+If we need to target corporates then then we would need more APIs for device management also like Zune for a single user we would need an Enterprise Server Application which can control the devices of employees remotely where we can aspect_term corporate policies on the device as well
+apply
+positive
+aspect_term some usefull app that run ussd code
+Make
+positive
+Please aspect_term the access to Gmails Todo list sync when a google account is added on the windows phone
+allow
+positive
+Under calendar I see the todo list of hotmail and I like it it would be great if I can add the gmails ones too and have the ability to make changes when sync happens or just have the ability to aspect_term todo items and those get sync to the phone
+add
+positive
+Hi the biggest icon size requited is 200x200 bit in the Marketplace single App page this is aspect_term to 240x240 losing quality
+resized
+negative
+You aspect_term addupdatedelete alarms or reminders from a BackgroundAgent
+cant
+negative
+Itd be great if we at least has the ability to aspect_term reminders and alarms that were created by that app
+changeedit
+positive
+And I want to get that response to my app to aspect_term it
+hanle
+negative
+It would be very useful to be able to aspect_term the names that my apps appear as when I check the App Hub dashboard
+change
+positive
+Developers must be given additional enumeration values in Socketype and ProtocolType to aspect_term variety of sockets like raw sockets based on ICMP IGMP etc
+create
+positive
+Allow to aspect_term Alert and Reminder from Background Task execution
+create
+positive
+Allow Orientationhorizontal on a listbox I would like to use the selectionchanged event handler to aspect_term a menu using the listbox control
+create
+positive
+As the heading says provide tools to prevent users from reinstalling apps rather than buy the full version and aspect_term devs from being deprived of purchases that they deserve
+stop
+positive
+As half the point of my app is the information on the live tile Id like to have a polite reminder show every so often if they havent pinned it but I simply aspect_term know whether they have or not
+dont
+positive
+Disable the aspect_term entirely
+feature
+positive
+Detect when there is a screen shot attempt so we can programmatically not display obscure or aspect_term our graphics
+watermark
+positive
+Like Android we need Phone level events like SMS receivedsent event Camera ONOFF event Phone aspect_term ONOFF event Keypad lock event etc
+turned
+positive
+I would aspect_term a phone remote in windows 8
+like
+positive
+Once a application is installed in WP there should be some way to aspect_term that application without user input ie
+run
+positive
+Specifically we will want the ability to aspect_term selective enabling of application features so that when the WP7 are run after serverside conversion
+have
+negative
+on newer hardware they aspect_term to the newer profile
+switch
+negative
+Barring that at least aspect_term for merged listings for WP7 and WP8 versions so that customers have a clear upgrade path for the same application
+allow
+positive
+Or you could just aspect_term the native SDKDirect X on WP7
+support
+positive
+Ill aspect_term that over the previous two
+take
+negative
+Barring that at least aspect_term for merged listings for WP7 and WP8 versions so that customers have a clear upgrade path for more
+allow
+positive
+The concept aspect_term itself well in below blogpost WinRT Transitions Creating Fast and Fluid Metro UIs httpwwwscottlogiccoukblogcolin201110winrttransitionscreatingfastandfluidmetrouis
+explains
+negative
+Using Vodafone GSM and the used data includes Unicode characters thus whole message is aspect_term
+failed
+negative
+i could aspect_term that in the same way the smsicon is shown on the lockscreen a mini app icon is shown aswell from apps that got notifications facebbok whatsapp
+imagine
+negative
+Add an option to delete future appointment in Calendar and preserve previous when used the option to aspect_term
+repeat
+positive
+Platform should provide access to call log so you can create applications which for example retrive unknown numbers from call log and aspect_term their information from public directories
+find
+positive
+The customized unlock apps are very popular on android and symbian we hope that we could aspect_term the same on WP7
+do
+positive
+At the moment there aspect_term 1to1 relation between companies and countries
+is
+negative
+Its OK for small business but what about bigger aspect_term
+one
+negative
+We aspect_term several devcenters in 3 countries and extra salesoffices in more countries
+have
+negative
+Same time WP7 registration intends we MUST aspect_term 1 country only
+use
+negative
+These descriptions also appear differently depending on where they are being viewed web aspect_term on PC or device
+zune
+negative
+The Update Description field has a documented purpose but then in the forums I read that this field does not aspect_term in the Marketplace
+appear
+negative
+Please provide a way to 1 predictably introduce newlines into the description fields 2 let me see how these fields will render in the different environments WYSIWYG 3 show me how the Update Description will be used in my updated app There does not seem to be a way to aspect_term newlines in the application descriptions on the Marketplace
+control
+negative
+Please provide a way to 1 predictably introduce newlines into the description fields 2 let me see how these fields will render in the different environments WYSIWYG 3 show me how the Update Description will aspect_term used in my updated more
+be
+positive
+Quicker way to go to the bottom of the metro screen to aspect_term tons of pined apps
+view
+negative
+I currently develop for Android and aspect_term
+iOS
+negative
+I am interested in developing for Windows Phone but would need a device to pay registration and learn a 3rd platform to aspect_term so
+do
+negative
+That involves a lot of time which aspect_term a large risk to smaller development companies
+is
+negative
+If Microsoft created some incentives like a free device Blackberry did this and a free year of membership Amazon did this it could aspect_term a lot of developers to the platform which is crucial to the platform taking off
+drive
+positive
+I would jump at the opportunity to adapt my apps for Windows Phone if Microsoft created incentives for me to aspect_term the platfrom
+try
+positive
+Cant use keyboard in landscape mode in some aspect_term
+app
+negative
+You would finally be able to aspect_term and customize your alert and text sounds
+add
+negative
+Of course each app would have permission accepted by user and each app would aspect_term own isolated storage for more private
+have
+negative
+It would be nice to aspect_term Windows Phone move to optional vector based icons instead of static bitmaps
+see
+positive
+This would aspect_term the application bar or appbar to resize if say HD screens were added
+allow
+negative
+Ideally users would only aspect_term 2 icons for the marketplace Tile contains the application name and List just the icon for the app list
+need
+negative
+Appbars could aspect_term created at 48x48 and resized as needed
+be
+negative
+I know this is a pain on developers that are not designers or have designers but an option would aspect_term nice time saver for the future
+be
+positive
+It would be nice to be able to aspect_term a cert you have uploaded
+delete
+positive
+Id like to be able to aspect_term my home screen by pinning my favorite photos directly from within the pictures application
+decorate
+positive
+Allow users to aspect_term tiles into separate hubs
+organize
+positive
+A secondary start hub I can use to store occasionally used apps would aspect_term good
+be
+positive
+An automated hub for recently used apps would also aspect_term good
+be
+positive
+Please aspect_term the access to phone filesystem
+allow
+positive
+It would be a great benefit if the developers can aspect_term the sdcard resources etc etc
+manipulate
+positive
+HP aspect_term the ePrint functionality Apple the Airprint
+have
+negative
+Can you not aspect_term connection to these devices possible
+make
+negative
+I want to aspect_term a textbox a placeholder text
+give
+negative
+This now requires aspect_term a custom control
+creating
+negative
+I want this to aspect_term available out of the box
+be
+negative
+Oh and I want the option to aspect_term labels for the textbox
+create
+negative
+aspect_term the access to pictures in PhotoChooser and Camera Roll in emulator
+Provide
+positive
+Since the easiest way to get hold of files to be used in programs is by downloading them from a network or the internet and saving them in isolated storage it would make the whole thing a lot easier if you could aspect_term this with FTP
+do
+negative
+FTP is still one of the most used protocols for aspect_term files
+retrieving
+negative
+And using a proxy is not always an options since some of us would like to be able to aspect_term FTP servers that is on a separate network
+reach
+negative
+IMAP idle for push emails and sync aspect_term forward and answered mails plus sync send folder
+read
+negative
+Email for business aspect_term very impotant
+is
+negative
+For all the guys girls over the 45 years old de need a really big clock in the main aspect_term
+display
+negative
+Thanks aspect_term about my english
+sorry
+negative
+Positioning cursor aspect_term almost imposible
+is
+negative
+WP should aspect_term ussd menu and umb as well
+support
+positive
+Once removed the Metro interface looks good from a desktop app but on the mobile phone aspect_term horrible
+is
+negative
+When the volume is in the rang 0109 the volume does not aspect_term
+decrease
+negative
+Continuing my prior post about allowing us to explicitly flip secondary live tiles with a tap instead of launching the app this request would aspect_term such an action to explicitly update the tile by triggering a function call in a background task
+allow
+positive
+Perhaps these two ideas are combined and you define which action to take when creatingupdating the tile Flip the tile execute a background task or both or simply aspect_term the app like normal possibly with deep toast
+launch
+positive
+That would really aspect_term LiveTiles Live which now they kind of arent and were by far the biggest disappointment when we saw the actual SDK
+make
+negative
+Coming from iOS when we did see that we scrapped two apps we were going to aspect_term on WP7
+release
+negative
+A third was scrapped because of the inability to aspect_term location tracking in a background task more frequently than once every 30 minutes which is sort of the same stale data issue as here
+do
+negative
+Since its userinitiated it aspect_term drain more
+wouldnt
+negative
+In the Schedule Namespace ist isnt possible to have access to the Media Library to play Songs User has already on his Device Please aspect_term this function to get access to the Media Library
+add
+positive
+Another thing is to have the possibility to aspect_term the Notification wich is shown when the Alarm or Reminder Rings
+modify
+positive
+We need to open our Application or to overwrite the notify to costumize it to aspect_term a better improvement for the user
+get
+negative
+Extend the API to query phone volume and vibration settings maybe even aspect_term them
+set
+positive
+Please aspect_term validation templates for WindowsPhone controls
+provide
+positive
+However not everybody has a physical device so having those experiences in the emulator would aspect_term a great addition to the dev tools and resources
+be
+positive
+Would be nice and useful to aspect_term email messages grouped by date same as contacts grouped by initial letter
+have
+positive
+For sharing audio and video there should aspect_term a very plain possibility to share stuff as already encoded package
+be
+positive
+Perhaps that could aspect_term available as Toolkit in codeplexcom
+be
+positive
+There aspect_term to be an Alpha Test mechanism available
+needs
+positive
+Since the beta test versions I recently submitted have been waiting for certification for 9 days there is no way for us to aspect_term together on this
+work
+negative
+My boss is not a developer and has no development tools but absolutely aspect_term to see the progress of development in a timely manner
+needs
+negative
+If the Beta program certified apps in a day then this might not aspect_term a problem
+be
+negative
+As it is it is hardly usable as a beta test program since our customers also need to aspect_term the app and improvements in a timely manner
+see
+negative
+We need support special aspect_term tasks like VOIP and IM
+multitasking
+negative
+We cant create good apps for this services without this API aspect_term on your Skype client wtf
+looks
+negative
+iOS already aspect_term this APIs
+has
+negative
+Volume on headphone when phone rings while listening to a song raise to aspect_term volume
+max
+negative
+Multiselect on Zune to delete Albums or to aspect_term a playlist
+create
+negative
+Readwrite accsess to email sync settings could enable applications to aspect_term custom sync profiles based on weekdays time position etc
+create
+negative
+Implement Soundwave touchless api on the phone for touch free aspect_term
+Metro
+positive
+Microsoft boffins showed how they can use audio via the speaker and microphone and a dopplar computation to aspect_term gestures without touching the screen
+detect
+negative
+I want to aspect_term that on the Phone for some games
+use
+negative
+In the submission process publishers should be able to aspect_term a box for apps that are made for individuals 13 or older and 18 or older
+check
+positive
+This should flag a feature in the marketplace when an app is being downloaded to aspect_term the age of the downloader
+verify
+negative
+In WP7 you can aspect_term multiple accounts of different types Live Google Facebook etc
+add
+negative
+It would be nice to be allowed to aspect_term basic information about these accounts
+get
+positive
+For example get a list of all email accounts and for each account aspect_term the number of unread emails
+report
+negative
+I think there are two ways to aspect_term the beta program 1
+improve
+negative
+Make aspect_term available immediately
+apps
+positive
+When developing on iOS using testflight or Android we dont have to wait two hours for beta code to aspect_term approved
+be
+negative
+We upload a new version or have the users aspect_term an update immediately
+download
+negative
+If immediate approval is not possible then apps that have been published should aspect_term immediately available
+be
+positive
+When we receive emails saying the beta application is published users are not able to aspect_term the application with the very own links provided in the email
+download
+negative
+Users are reporting a 12 day time between when the app is approved to when it aspect_term available for download
+is
+negative
+Users receive a strange marketplace error when trying to aspect_term the application
+download
+negative
+When developing apps it is often useful to leverage existing Launchers and Choosers as Tasks to access certain data or aspect_term an operation
+perform
+negative
+Currently this is only aspect_term for systemlevel data and operations
+exposed
+negative
+It would be ideal to aspect_term apps to expose certain bits of data or functionality to other apps to provide a complementary experience in terms of reuse of information or performing similar tasks
+allow
+positive
+Imagine shopping apps being able to share a set of data such as a wish list or news apps aspect_term able to share a list of news feeds
+being
+negative
+Imagine having an installed app do what it does best for another app such as perform a series of complex calculations or aspect_term weather data
+gather
+negative
+It would be the responsibility of the app to aspect_term what it exposes for data or functionality
+decide
+negative
+This can first be alleviated as with other security screening by prompting the user to aspect_term an app to access another apps tasking features
+allow
+positive
+In such case youd better make your videos carefully so that it can aspect_term a good user experience to the potential clients
+leave
+positive
+If you convert video to FLV flash video which features much smaller size than popular formats your videos will aspect_term watched unhinderedly with quick loading
+be
+positive
+select FLV as output aspect_term
+format
+negative
+If you are more requirements of your video such as bit rate encoder etc you are do these aspect_term one by one in the popup Formats window
+settings
+negative
+When everything is finished you can click Start button to aspect_term the video to FLV conversion process
+start
+negative
+You are allowed to aspect_term the converting process in slideshow
+preview
+negative
+As 99 computer owners have installed flash plugin in web browser so its naturally that FLV or SWF flash videos are more acceptable than popular videos formats such as MP4 AVI MPEG or aspect_term
+ect
+negative
+If you convert video to FLV flash video which aspect_term much smaller size than more
+features
+negative
+Allow the BackgroundAudioPlayer to aspect_term tracks from the MediaLibrary
+play
+positive
+Or aspect_term applications that implement the XNA MediaPlayer class to run in the background
+allow
+positive
+Please add the possibility to aspect_term your own spell check service or provide the data if a system wide one existed
+add
+positive
+When I want to build some tiles in my app I have to aspect_term buttons that I give a custom style
+use
+negative
+But this is ugly since everyone implements this in another way aspect_term in odd alignments bad text colours etc
+resulting
+negative
+We need a simple and standardized way to aspect_term simple tiles that function as buttons
+create
+positive
+Beta testers aspect_term our apps for free
+test
+negative
+It would be nice if when the appgame is published in the marketplace we could include a list of the testers that helped us so they can get the app from free instead of having to aspect_term it
+buy
+positive
+AndroidiOs and Blackberry aspect_term compatible with this API So why dont we
+are
+positive
+I would be a really nice gesture to have an option wich can put everything to the other side so when left handed people scroll they could also aspect_term the content
+see
+positive
+Visual Studio 11 and new Expression aspect_term
+Blend
+negative
+Merge aspect_term together
+products
+positive
+Add open app in marketplace in the app menu rate review uninstall pin to aspect_term
+start
+positive
+It does not look professional when scrolling upward at the end of any page or downward at the top the content of the page regardless of material or application will aspect_term stretched down
+be
+negative
+It is part of the effect through the whole operating system and aspect_term not particularly belong to any application
+does
+negative
+Sometime the stretched content of the page does not aspect_term professional
+look
+negative
+We need UPD broadcast to aspect_term for our devices in the network
+search
+positive
+When an exception is thrown and intercepted by the debugger Edit and Continue permits to change your code right while debugging to aspect_term the code continue
+make
+negative
+We can aspect_term music that is not copyrighted to be accessible if that is a huge issue
+allow
+positive
+Link to sql is not efficient at all aspect_term they include sql sqlight or other library
+could
+positive
+It s impossible to connect easily to ftp network I aspect_term to include it in the future sdk
+suggest
+positive
+We aspect_term an Office Hub that open Openoffice document
+want
+positive
+Currently for dynamic data binding controlls like listbox is aspect_term
+recommended
+positive
+Why cant I change phone search and IE search to Google or another provider that actually aspect_term
+work
+positive
+Fix Bing or aspect_term the phone
+fix
+positive
+At best this is unclear but should the user pan or zoom they lose the frame of reference for the place were trying ot aspect_term them
+show
+negative
+You can sometimes work around this behaviour by specifying a search for the place youre trying to aspect_term but this is dependent upon the search results
+indicate
+negative
+If the search finds nothing you aspect_term no pin
+get
+negative
+Or if the search finds something other than what you intended you can aspect_term up with a pin or pins far from where you want them
+end
+negative
+If it were possible to tell the task to show a pin or pins at a specific point or points that that would aspect_term for a better user experience
+allow
+positive
+Even if we could just specify a label for the pin that would aspect_term better than nothing
+be
+positive
+Add an option Private to aspect_term photos movies songs calendar appointments
+lock
+positive
+An exit button should aspect_term there on all application softwares
+be
+positive
+Show used volume so you can aspect_term how much MB of your inclusive volume is already used
+see
+positive
+We could just aspect_term a CSR and Microsoft provide a signed certificate via their own CA
+upload
+positive
+It would aspect_term nice if a choice between vibration and the sound is given for typing
+be
+positive
+Pin settings airplane mode wifi etc in the start aspect_term
+screen
+positive
+Allowing for tester groups or profiles would aspect_term for efficient test setup in the Marketplace especially for multiple products by allowing a group to be assigned to the app as it is entered in the Marketplace as a beta
+allow
+positive
+Additionally it would be great to aspect_term additional support for Enterprise developers that target a specific set of clients as opposed to the public masses of the Marketplace
+have
+positive
+First an Enterprise Developer account could be established with a cost of say 499 which is high enough to aspect_term hobbyists or smaller companies from enrolling while at the same time providing additional benefits to larger enterpriselevel corporations
+deter
+positive
+Ideally a mini storefront or splash page for the company and product would help aspect_term in clients
+draw
+positive
+Allowing for tester groups or profiles would aspect_term for efficient test setup in the Marketplace especially more
+allow
+positive
+If the app shows sensitive data when deativated it would be good to be able to aspect_term a different image for fast app switching instead of a screenshot of the application
+use
+positive
+Daemon service should aspect_term turnable on and off per app basis in the same way like periodic tasks
+be
+positive
+Microsoft should aspect_term windows phone development APIs in Visual Studio
+advertise
+positive
+Please make it instead fire an event which could be used to aspect_term an apps search bar or page
+open
+positive
+At least support aspect_term static GIF image
+displaying
+positive
+Back and forward buttons aspect_term not the capacitive back button
+needed
+positive
+Please consider to aspect_term support for unsafe code in Silverlight and Xna apps
+enable
+positive
+Maximizing all current main apps would aspect_term better than having 1mil appd in the marketplace
+be
+positive
+Create option to aspect_term Periodic Agents to run even if app has not been opened for x days
+allow
+positive
+This aspect_term my family up to four LIVE accounts
+gives
+negative
+On an Xbox we can log in and aspect_term games no problem yet a W7 phone allows for only one user
+play
+negative
+I cant even log in to another account to check or edit it let alone aspect_term games with it
+play
+negative
+A certain rival brand of phones allows users to aspect_term between their LIVE equivalent accounts with no problems whatsoever
+switch
+negative
+I bought my WP7 phone with gaming in mind but theres more than one gamer in this house please make it possible for several gamertags to aspect_term used on one device
+be
+positive
+Keeping the message as draft when exiting would save me the hassle of having to aspect_term it again
+type
+positive
+Can we aspect_term windows phone development using visualstudio lite IDE which includes only phone developement
+have
+positive
+Start by expanding the number of apps that can use a certain key word such as childrens stories so that new apps who innovate can aspect_term those who got their first with potentially crappy apps
+displace
+positive
+Secondly you need to limit the number of apps that a publisher can aspect_term with a particular key word
+submit
+positive
+We should have some way within our app to get aspect_term that whether user selected call dont call and when heshe ended call means notification of end call
+notify
+positive
+It would be more useful if specific Service apps could be released that would extend these features by for example aspect_term a Google option to the sharing interface
+adding
+positive
+Would be nice if in power point could aspect_term same method as in pictures hub for navigation
+have
+positive
+Received from an MVP this week over email It would be great to be able to aspect_term the emulator location data use the NMEA file format either via file importexport or using the files directly as a feed
+have
+positive
+Other devices use this format and it would be great to aspect_term it supported by Windows Phone
+see
+positive
+they all use Sip so it would be great to aspect_term a native sip client integrated
+have
+positive
+Also a T9 keyboard would aspect_term nice too
+be
+positive
+I want to be able to aspect_term a picture to the media library and then start the SharePictureTask to let the user see and share it from the Pictures Hub
+add
+positive
+aspect_term the 50 apps limit from the phone and 100 app limit from the marketplace web site when users search for an app with a search term
+Remove
+positive
+aspect_term a quick access Block buttonfunction to be used when receiving spam over chat
+add
+positive
+I would like to see a monthlyyearly subscription model introduced that let me aspect_term users 5 a year for my app for example
+charge
+positive
+We really aspect_term Assembly Binding Redirection or Publisher Policies in Windows Phone
+need
+positive
+It would be great if you could aspect_term png support to the medialibrary so that we can save high quality png files to the picture library
+add
+positive
+Being able to use simple uncompressed wav files would open up many possibilities for ring tone editors and make files recorded from the microphone ready to aspect_term used as ringtones
+be
+positive
+It would be great if the Windows Phone development team could aspect_term us to use the RSTP streaming protocol in NET Compact Framework we use
+allow
+positive
+Provide preference setting to categorize apps in the long list by their categories in app store rather than names or alphabetical orderthis is extremely helpful for people with lots of apps and provide the ability to aspect_term the uniformity of the UI while making it more user friendly
+maintain
+positive
+This will provide more usability of the live tiles on the start menuespecially when one aspect_term to drag multiple tiles through long list
+needs
+negative
+Please get metequotes to aspect_term metatrader for Windows Phone
+make
+positive
+Need of Logger Class to aspect_term errorInfoVerbose and daemon Information
+log
+positive
+As it aspect_term available in androidIt improves the debugging process
+is
+negative
+It displays the certificate signer information but you could easily upload two certificates with different CNs service names issued by a single CA and you would aspect_term no way of telling them apart
+have
+negative
+Minimally it should aspect_term the CN from the subject which matches the service name you provide in client code along with the CN of the signer
+show
+positive
+Ideally it would aspect_term you to download the certificate for verification or at least provide a md5 hash of the uploaded certificate
+allow
+negative
+Right now you can upload an unsupported certificate or even selfsigned cert and apphub will not aspect_term any feedback
+provide
+negative
+Allow the user to be able to aspect_term a custom reminder time such as 2 hours or 15 hours before the Calendar entry
+set
+positive
+At present you only aspect_term fixed values like 1hr or 18hr before
+provide
+negative
+tesco club card app shows you points and you have you clubcard bar code avaible on your phone to aspect_term at checkout
+scan
+negative
+apps has your nectar that you are able to scan in stores also shows you your points balance and allows you to shop online and aspect_term more nectar points
+collect
+negative
+I would like a button I can click that will only aspect_term the countries for which Microsoft already accounts for any taxes
+select
+positive
+Support file transfer such as PDF aspect_term
+files
+positive
+A bevy of restrictions can also be heaped on the said user control in order to maintain performance and not aspect_term battery life
+sap
+positive
+Let Live tiles aspect_term live please
+be
+positive
+when an alarm pops up an option to edit the reminder should be included instead of having to constantly hit snooze or exit the reminder and aspect_term into the object itself
+go
+positive
+I need a posibility to aspect_term the keyboard language from code
+set
+positive
+the focus on TextBox1 opens the keyboard with the german layout the focus on TextBox2 aspect_term the keyboard with a greek layout
+opens
+negative
+on desktop under net 2035 is this no problem Windows Forms InputLanguageCurrentInputLanguage InputLanguageFromCulturenew SystemGlobalizationCultureInfoarEG WPF This is exact what i need InputLanguageManagerSetInputLanguagetextBox1 new SystemGlobalizationCultureInfoenUS InputLanguageManagerSetRestoreInputLanguagetextBox1 true I have tested this and it aspect_term fine
+works
+negative
+If the keyboard is not aspect_term nothing changes and the current layout remain
+installed
+negative
+aspect_term implement this it is important for me for a translation application
+Please
+negative
+I aspect_term to create hardware ratings like ones in Winows 7 WEI for the smartphone in order to help both users and developers to match hardware with apps or games
+suggest
+positive
+I think that this ratings will even enable developers to aspect_term different versions of the same app pointing to specific hardware
+create
+negative
+It would be nice to be able to aspect_term the computer keyboard when using the emulator
+use
+positive
+Its a bit frustrating to aspect_term with the mouse
+type
+negative
+we cant use some important libraries in the background agent like Microsoftdevicessensors that limite our power to aspect_term a good application
+creat
+negative
+currently you can only pin an album but it would be useful if you can aspect_term a single image as a tile that way you have easy access to a it
+pin
+positive
+school schedule bus route or a picture of aspect_term you like
+someone
+negative
+The current AdControl crashes any app which aspect_term the silverlightXNA hybrid mode
+uses
+negative
+Apparently this has never worked nor communicated to aspect_term
+Devs
+negative
+I normally wouldnt say This is unexceptable but given that silverlightxna hybrid is the new big thing for WP7 this issue aspect_term immediate attention
+needs
+negative
+which is useful if you want to aspect_term an appointment with the same timelocationnotes as a previous one
+add
+negative
+Currently when you press and hold an appointment in the calendar you aspect_term the option to Edit or Delete
+have
+negative
+You either have reenter all the info or aspect_term the date of the old appointment but thats not ideal because you lose record of old appointments
+change
+negative
+local scout should show more than just 20 results there should be the ability to state the radius from current location and all businesses within that radius should be shown which could greatly exceed 20 also if searching a company name for a small businessrestaurant it would be good if that could aspect_term within local results
+show
+positive
+often i try to search for a restaurant and there is no result under local instead i have to aspect_term their website and then their postcode
+find
+negative
+this would save me that hastle and aspect_term planning journeys much simpler
+make
+negative
+Allow an app to aspect_term text messaging preview
+disable
+positive
+Allow users to aspect_term their app with the me and people hub directly
+link
+positive
+Now that we have API access to contact information it would be useful to immediately be able to click on a contact and aspect_term it in a related app eg
+open
+positive
+Skype twitter aspect_term
+etc
+negative
+Add a full support of RegionInfo and aspect_term possibility to instanciate one with two letter iso code
+add
+positive
+SO we can aspect_term it to dispal country name with user language
+use
+negative
+Add option to hide keyboard specially when you want to copy a long text the keyboard takes around 60 of your LCD space leaving you with a tiny window to aspect_term with
+work
+positive
+Exactly As The Title aspect_term
+Says
+negative
+can you please aspect_term a tesco clubcard app
+create
+positive
+Allow the ability to view SSL Certificates on HTTPS Connections in IE and have the option to aspect_term the CA
+install
+positive
+I suggests to aspect_term some kind of Storage to store GPS POI
+add
+positive
+In addition this storage may have integration with contacts to aspect_term user have geographical map of his contacts
+allow
+positive
+port Internet Explorer 10 to a mobile version as soon as ie10 is ready to get all new ie10 features to our mobile phones so we can aspect_term better webapps for windows phone
+build
+positive
+pls support aspect_term possitioned elements
+fixed
+positive
+Id like to aspect_term tiles of various colours on my start screen
+have
+positive
+Allow access to raw data such as signal strength imformation to aspect_term creation of indoor location positioning using available wifi bluetooth or cellular networks when no gps data is available
+allow
+positive
+It would aspect_term nice if there were an app that logged things that happen on your phone ie
+be
+positive
+it would aspect_term also great if there were an icon in the status bar that indicates that that are new eventsnotifications
+be
+positive
+Id like the ability for an application to aspect_term quick loaded from the righthand corder of the lock keypad
+be
+positive
+If thats not possible aspect_term a button to be overriden and pressed during the locked screen process
+allow
+positive
+Also I want to be able to aspect_term the left of power for when the batterysaver kicks in
+set
+positive
+The default setting is way too lateId prefer 50 or more remaining before aspect_term on
+turning
+positive
+Itd be very convenient for developers without actual devices to test their apps for the certification requirements if everything could actually aspect_term tested with the emulator
+be
+positive
+Please upgrade the YouTube App by Microsoft Corp with Metro UI instead aspect_term to a mobile site
+directing
+positive
+Expose the SongCollection class so we can aspect_term and remove song objects from custome song collections
+add
+positive
+Allow the BackgorundAudioAgent to utilise the XNA framework so that the devices song library can aspect_term played and manipulated from the background
+be
+positive
+You would also need to provide a conversion mechanism to aspect_term a Song to an AudioTrack as is the default file type for the BAP
+convert
+positive
+aspect_term the restrictions around application running under a locked screen andor in the background
+Relax
+positive
+Unless of course we go with a predetermined SongCollection such as SongCollection aspect_term more
+limitedPlaylist
+negative
+We need the ability to aspect_term apps that are capable of video editing for WP
+build
+positive
+Please DevGroup make this APIs should enable developers to build apps that include the ability to do aspect_term trimming editing and saving to the video library
+video
+positive
+This is needed to aspect_term VoIP application
+build
+negative
+Playing audio stream in loudspeaker aspect_term uncomfortable for users
+is
+negative
+sir i have samsung omnia w its aspect_term latest update
+running
+negative
+when i charged my phone then the key press aspect_term laggy and hard
+becomes
+negative
+Allow applications to aspect_term custom shaders in HLSL
+define
+positive
+This will aspect_term sophisticated game graphics and realtime image processing
+allow
+negative
+Also aspect_term access to MP4 encoder library hardware accelerated so apps can generate their own videos
+allow
+positive
+This should also aspect_term apps to read existing videos modify frames and write them back
+allow
+negative
+for gps tracking aspect_term
+apps
+negative
+There is an Android app which aspect_term all local wifi connections with their channel number strength and of course name
+displays
+negative
+WPF7 should aspect_term one like this too
+have
+negative
+Currently I can detect and aspect_term what the embedded Zune player is currently playing
+control
+negative
+The same cant aspect_term done with 3rd party apps implementing background audio streaming like soundtracker etc
+be
+negative
+Hello thank you for this aspect_term
+site
+negative
+I was very happy to be able to scan barcodes from the search button and I would like to aspect_term this in my application
+use
+negative
+The design guidelines should aspect_term the law
+be
+positive
+Dont aspect_term ugly interfaces be stricter on things like navigation general look and feel even animation
+allow
+positive
+aspect_term developers good explanation what they do wrong and enforce good design
+Give
+positive
+If something is unresponsive it should not aspect_term allowed unless there is a clear and good reason for it
+be
+positive
+Apps should take no longer than 23 seconds to start and need to explain why they would aspect_term longer
+take
+positive
+aspect_term the marketplace of the highest quality out there
+Make
+positive
+Support for WEBGL like the rest of the world Microsoft have done this too many times we as MS developers are starting to look stupid 5 years behind on the mobile market Ballmer iPads are just under powered PCs Gates the internet is just a fad enough admit you are wrong early rather than aspect_term its much easier that way
+late
+positive
+The biggest problem I almost exclusively run into when working on WP7 apps aspect_term the layout performance of Silverlight
+is
+negative
+Its takes quite some effort to aspect_term around that problem
+work
+negative
+And according to aspect_term searches about this problem I felt that Im not a lone with this
+web
+negative
+Itd be great if you would work on a solution to aspect_term the situation
+improve
+negative
+too often we come across a word in an app we might not know or we just want to confirm the meaning of it we colud look it up right where u r without the need to exit n aspect_term in to another app
+go
+positive
+with this mod we can enjoy the platform more the than ever before is to make in the landscape like the upcoming windows 8 or like the original tile home screen from up to aspect_term or down to up
+down
+positive
+An address bar should be added to Calendar items to aspect_term the location of your appointmentmeeting
+give
+positive
+This address should aspect_term visible on the Bing maps showing you the location of your calendar item
+be
+positive
+Vice versa you should be able to schedule via the Bing maps aspect_term a location on the maps and linking it to the Calendar
+adding
+positive
+Return back a multitask support may be optional will significal aspect_term advanced users experience
+improve
+positive
+In current situation its almost impossible to aspect_term some kind of applications such as different trackers survilence etc
+create
+negative
+A color picker control just like the one in the phones settings would be really useful for apps which want to aspect_term the user a choice of colors
+offer
+positive
+I know I can code one but it should aspect_term one of the standard controls
+be
+negative
+The current IE mobile browser doesnt support aspect_term correctly
+keyup
+negative
+Id like to aspect_term Youtube videos in my app
+show
+negative
+I would like to aspect_term control over the size positioning and playback of a video
+have
+positive
+there should be an option to change the working of these buttons to aspect_term click so that a slight
+double
+positive
+Allow for video camera control start and aspect_term recording from the touch screen instead of just the camera button
+stop
+positive
+A demo or prototype category like it exists on Android would aspect_term this issue
+solve
+positive
+As of now the number of contacts that can be added to a group is restricted to 20 please aspect_term the cap
+remove
+positive
+Already music streaming is aspect_term but only for single songs
+supported
+negative
+wouldt it be great to aspect_term albums to SkyDrive and stream them directly from there
+add
+positive
+Prefferably the albums would be integrated in the music videos hub similarly to aspect_term SkyDrive pictures are integrated in pictures hub
+jow
+positive
+All notifications should aspect_term in a pull down shade in iOSAndroid style
+exist
+positive
+The pull down shade should aspect_term on the color theme you have choosen for your phone
+take
+positive
+Notifications should exist within the shade as black tiles and will aspect_term the notification type and a short phrase from the email sms text facebooktwitter mention etc
+illustrate
+positive
+have a background agent enable all the time to execute an application event not aspect_term them periodically
+execute
+positive
+Ability to aspect_term a custom buttons to system call app like in screenshots httpbitlyincomingScreen httpbitlyincallScreen click on button will launch some callback which will access to 1
+add
+negative
+Access to aspect_term voice stream inout 2
+call
+negative
+Access to call controls can aspect_term a new call end exists etc all features provided by standard buttons on call page
+initiate
+negative
+currenty when you hit the Back button from the Folders in the Mail app it aspect_term you back to Homescreen
+takes
+negative
+Please fix this so that it goes back to Inbox and not aspect_term the app
+exit
+negative
+in addition to the current Alphabetical view aspect_term Sorting options like Sort by last installed Sort by recently accessed Also it would be nice to have a shortcut screen like the fullscreen blue alphabet tiles but with dates 1 day ago 1 week ago 2 weeks ago
+add
+positive
+Doing something like the actual WebBrowserTask but with Uri pointing to aspect_term in IsolatedStorage
+file
+negative
+Add a method to aspect_term another app passing params
+run
+positive
+there should be a function to aspect_term the tile depending on mood
+costumise
+positive
+if the homescreens tile automaticaly aspect_term in recent most used favart and latest updated
+arranged
+negative
+then it would aspect_term better
+be
+negative
+Let us aspect_term internet free sms or minutes in our career codes
+buy
+positive
+Let us aspect_term codes I think its one of the most important things here
+call
+positive
+Support for word wrap or something would let us aspect_term more meaningful titles to our apps with less app title duplications
+give
+positive
+The ability to broadcast and bind sockets to a port would be handy for making local client server applications where you dont need to aspect_term the server IP
+specify
+positive
+We aspect_term a clean and simple interface which WORKS
+want
+positive
+I for example aspect_term four applications in about two days
+wrote
+negative
+Getting them all published aspect_term me over three months
+took
+negative
+The process particularly for someone under the age of 18 of getting a Dreamspark account particularly now that youve messed up that website and an App Hub account aspect_term absolutely awful more
+is
+negative
+windows phone dev is powerless without low level api to access drivers or aspect_term features to phone
+add
+negative
+I have developed an app which plays audio aspect_term the BackgroundAudioPlayer
+using
+negative
+If I am listening to aspect_term over Bluetooth and I pause the audio if the Bluetooth device disconnects the audio resumes playing
+audio
+negative
+I aspect_term continous background processing in my app frequency analysis of the mic if anyone cares
+run
+negative
+Id like to control the priority of this background thread to aspect_term the user experience better
+make
+positive
+We note that microsoft bought Skype so we need an app that includes Facebook chat Skype chat video call and normal aspect_term
+calling
+positive
+Enterprise aspect_term
+feature
+negative
+calendar functionality does not aspect_term for specifying end date for meeting or appointment
+allow
+negative
+Bring back reccurrence from wm 65 where you could aspect_term complex meeting schedules
+create
+positive
+Then i can write an App to simulate a Keyboard or a mouse and aspect_term need software on PC
+dont
+negative
+In SDK give an UI explorer view for Isolated Storage to download upload isolated storage files from device to aspect_term
+desktop
+positive
+This will aspect_term in testing out and debugging applications which use Isolated storage significantly
+help
+negative
+it is not possible to aspect_term an email with an attachement ie
+send
+negative
+when aspect_term for a job
+applying
+negative
+A faster way to switch between vibration on and off than having to aspect_term settings ringtonessounds
+open
+negative
+It would aspect_term nice with a switcher on the volume control like the button ringsilent
+be
+positive
+Android gives you the capability to zee how much storage a particular app uses we could really aspect_term with this
+do
+positive
+when ever i make a call my phones screen goes dark even if im not aspect_term it on my ears
+puting
+negative
+Ive read alot of concerns aspect_term this problem
+regarding
+negative
+why shouldnt I as user be able to aspect_term reviews made by people from other countries
+see
+negative
+Here in Denmark there arent that many wp users yet so a lot of apps will show up in the marketplace without any reviews even though you can see in apptracker that there aspect_term some reviews
+exist
+negative
+to aspect_term phones with qwerty sliding like HTC 7 Pro Arrive while OS is not providing landscape for all apps is something between ridicolous and unfair
+sell
+negative
+When you enter a wrong word in the keyboard dictionary eg while aspect_term in word
+typing
+negative
+the only way to remove it is to aspect_term the full dictionary by using keyboard typing settings reset suggestions
+clear
+negative
+We need a way to select the words we want to aspect_term
+delete
+positive
+Control to send desired picture to native pinch to aspect_term controller
+zoom
+negative
+One line of code to aspect_term native picture viewer with pinchtozoom
+enable
+negative
+Instead of having to tap the screen you should aspect_term the choice of locking it at the top of the screen
+have
+positive
+Tuenti is a social network as Facebook in Spanish or English or Catalan it would be very useful for spanish people or south americans or people who have signed up on it to aspect_term it integrated into the people hub
+have
+positive
+I have a lot spanish friends who have hesitated to buy a Windows phone and finally didnt aspect_term it because their favourite social network wasnt neither on the marketplace neither on the people hub
+buy
+negative
+android has the pull down notification area well we should have a live tile where all notifications come in so if ur using an app n its not pin to ur start screen u can still aspect_term when u have a notification
+know
+positive
+possibility of viewer and writter rar files and native support rar would aspect_term job
+good
+negative
+The builtin support for some DPWS devices would be nice especially printing to WSD printers or capturing images from WSD scanners would aspect_term a significant feature
+be
+positive
+Implementing such protocol is not impossible and printing from applications would aspect_term welcome not only by developers but by end users as well once available in Office applications etc
+be
+positive
+If phone is lost aspect_term remotely setting custom message on the lock screen ie contact information
+allow
+positive
+As for now the PictureDecoder can only decode JPG and aspect_term on the UI thread
+run
+negative
+I am especially thinking about tile generation on background agents Id like to have an enriched PictureDecoder able to aspect_term on any thread and decode PNG as well
+run
+positive
+extended ability to aspect_term text or links within apps such as Facebook and Twitter for copy paste individual textword highlight of a text bubble with the WP7 txts
+highlight
+negative
+improoved text edit cursor positioning when highlighting text close to the top of the screeb or too far down the scrolling plays up anf makes it awkward to aspect_term it right
+get
+negative
+wifi data transfer wp7 to aspect_term
+wp7
+negative
+The ability for applications to aspect_term the data connection of the device especially Edge3G etc
+follow
+negative
+if they run as background tasks with live tiles as most carriers aspect_term limited amount of connection
+provide
+negative
+We can able to aspect_term Managed code functionality in silver light 3
+call
+negative
+But in windows Phone for silverlight dosnt aspect_term the dll System Windows Browser
+provide
+negative
+Better Multitasking with the ability to aspect_term background applications on
+have
+negative
+Example I am playing a game and i pause and want to aspect_term later
+play
+negative
+Then i want to aspect_term my phone as usual go in to other apps and that kind of stuff
+use
+negative
+Then later when i want to aspect_term playing from where I paused I hold the back button and i see that game is open in the background not only the 6 latest apps
+continue
+negative
+It would be really cool if developers could get api access to Xbox Live Gamertags that way they dont have to make users create a new account just to aspect_term multiplayer games
+play
+positive
+It would also aspect_term a lot for leaderboards too
+help
+negative
+If you look at all of the most popular programs in any field Photoshop Office Chrome etc one thing is always constant and that aspect_term 3rd party extensability
+is
+negative
+aspect_term this to Windows phone to all native apps
+Bring
+negative
+Instead of making a new camera app aspect_term me to extend the native one
+allow
+positive
+aspect_term this to all of the native apps including office the dialer people hub etc
+Bring
+negative
+TAB is usefull to aspect_term from textbox to another eg
+jump
+negative
+in the registration forms aspect_term only the keyboard
+using
+negative
+Arrows keys to aspect_term easly throught the text
+move
+negative
+When you have more than 5 Groups you need to scroll down in case you want to aspect_term a single Contact
+find
+negative
+The AZButton should open the Lettergrid to aspect_term to the desired point in the list
+jump
+negative
+i would like it to aspect_term just like the walgreens app
+work
+negative
+The mango way to switch between tab is slow as so please implement a quicker way to do that or aspect_term back to the previous IEs chrome
+roll
+positive
+greater permission to aspect_term the music
+manage
+negative
+help aspect_term the current position of the current music with the mediaplayer Zune seek position
+define
+positive
+to obtain another possibilities to aspect_term in the music as the default button fast forward
+move
+negative
+In a windows desktop ALTTAB is used to aspect_term quickly between apps
+switch
+negative
+We aspect_term something just as fast in WP7
+need
+negative
+One suggestion is Double tap home icon quickly to aspect_term the list of open apps as shown currently
+see
+positive
+This is faster than aspect_term down the Back key for some time
+holding
+negative
+zune payer should support custome codec plugin so one can aspect_term any format
+play
+positive
+Please expand the MessageBoxButton option in Silverlight to aspect_term a YesNo or YesNoCancel option
+include
+positive
+It would be nice to aspect_term a modal control that is standard between applications with additional user choices available
+have
+positive
+the mutitasking area should aspect_term every app that you have opened in it
+have
+positive
+The last five should be frozen and any more than that should have to aspect_term
+restarted
+positive
+To close an app the user should be able to use herhis finger to aspect_term it upwards WebOS style
+flick
+positive
+In addition the user should be able to take a screenshot within the multitasking area by using a finger gesture to drag the app towarda the bottom of the screen a screen capture icon should appear and the outer edges of the icon should aspect_term with green and onve the edges are more
+fill
+positive
+It will be very useful if you can aspect_term a static IP
+asign
+positive
+IPv6 begins to aspect_term widely supported
+be
+negative
+It was available in WM65 and older so it would be great to aspect_term this included in WP7 and later
+see
+negative
+aspect_term sync of ms exchange notes
+allow
+positive
+because push notifications can easily go unnoticeable there should be a history in the me tile that will also aspect_term you if you missed something
+tell
+positive
+Tile counts are nice but I dont have every app pinned nor do I aspect_term it that way
+want
+negative
+Just a history for one days notifications would aspect_term enough
+be
+negative
+It would be really nice to have a Share task that I could aspect_term a stream to in order to share an image
+pass
+positive
+This task could aspect_term up the same interface when I share an photo from my pictures library
+bring
+negative
+It would make it simple to share photos to facebook and aspect_term if the user already has it setup
+twitter
+negative
+It would also aspect_term it possible to finally share photos via sms and email programmatically
+make
+negative
+Examples Google should be able to aspect_term Google support to me people hubs
+add
+negative
+Amazon should be able to aspect_term their cloud music seamlessly with musicvideo hub
+integrate
+negative
+Flickr should be able to aspect_term with picture hub
+integrate
+negative
+When searching in the market you should be able to aspect_term the app if already installed
+open
+positive
+Please aspect_term APIs for call forwarding and other call management functionsholdunholdswapconferenceetc
+provide
+positive
+As a user I would like to be able to select songs that I have put on the device from my library to aspect_term up to
+wake
+positive
+As a developer I can only aspect_term the user to choose from songs that I included with the app
+allow
+negative
+The main workaround Ive seen in the various alarm clock apps is to force the user to aspect_term the app open over night which is not particularly awesome for battery life
+keep
+negative
+Add an option to customize the size of Pictures uploaded to Skydrive or aspect_term via mail
+send
+positive
+Also aspect_term an option to autoupload full images tu Skydrive and not only 718x538 px as preset on the lumia 800
+add
+positive
+Right now you can start aspect_term by holding down the Windows button and saying start appname
+apps
+negative
+It would be great if you could start an app while aspect_term some instructions for example Facebook show me messages Office create new Word document Prime TV mark House Season 1 Episode 4 as watched
+adding
+positive
+when holding my phone in one hand the palm of my hand just below my thumb come very close to the search button and a stretch to far can often aspect_term me off to the search function while i am texting or writing an email
+send
+negative
+is there any possibilty that these 3 controls can somehow be made less sensitive or aspect_term a more mechanical click
+become
+negative
+The touchmove event is called only once when I aspect_term my finger across the screen
+move
+negative
+So I aspect_term create complex HTML pages with a fixed header and a scrollable content
+cant
+negative
+I will move the content per javascript but I aspect_term not because the touchmove event is not triggered
+can
+negative
+Please aspect_term the whole TouchApi in the Internet Explorer and the WebBrowser Control
+implement
+positive
+This aspect_term VERY IMPORTANT for mobile websites because iPhone and Android support this
+is
+negative
+Emails aspect_term non editable while
+are
+negative
+Enable picture password as in aspect_term 8
+Windows
+negative
+aspect_term multiple for sms as email services
+deleting
+negative
+I am thinking about a SDK to aspect_term me to create an account app
+allow
+negative
+So like google facebook linkedin I want to create contacts calendar and access to aspect_term hub also writing messages with my account
+message
+positive
+Marketplace upload of this kind should be more restricted to aspect_term problems
+avoid
+positive
+When Im reading a web page or other document I would find it incredibly useful to be able to aspect_term to the jump of the document without endless swiping
+jump
+negative
+if more elements one aspect_term
+day
+negative
+We cant aspect_term the other
+see
+negative
+it is slightly fustrating when one or two screenshots take longer to load and you can not aspect_term them while swiping through the images
+skip
+negative
+Like windows aspect_term 65 and older version
+mobile
+negative
+Currently you can only aspect_term the review page from the app list with the contextual menu
+have
+negative
+It will be pleasant to go the main page of the app in the marketplace to aspect_term the general prsentation screenshots the other users reviews
+see
+positive
+aspect_term capability to enter manual parametets for visual voicemail
+add
+positive
+currently in the all applications view tge jumplist appears only when there aspect_term more than 40 apps
+are
+negative
+i have about 30 apps and it is already difficult to find an app i think the jumplist shuld aspect_term always available
+be
+positive
+I believe scrolling should aspect_term improved
+be
+negative
+As sometimes when users are viewing a long document they sometimes might want to aspect_term to the middlelower section
+skip
+negative
+But scrolling seems to aspect_term a little long
+take
+negative
+Thus this idea is actually for the developers to make scrolling faster after each subsequent scroll like every 5 scrolls the scrolling speed will aspect_term
+increase
+negative
+ensure that we can aspect_term clips movies and videos directly to WP7 without necessarily going through a PC
+buy
+positive
+Swipe from the top down with two fingers and flick through the last closed app as aspect_term in Windows 8
+seen
+negative
+For instance email and messaging notifications could be silenced at night whilst call ringtones would aspect_term as normal
+function
+negative
+by aspect_term a developer a good developer work
+benchmarking
+negative
+it will encourage a developer to design better apps and it makes very easy for customers to aspect_term the right apps ibstead of selectibg some poorly designed apps and wasting the time
+choose
+negative
+I see many developers can aspect_term benefited from text2speech api
+be
+positive
+It can also aspect_term in whole range of new apps for windows phone
+bring
+negative
+In Android For C2DM Google is aspect_term free account and restrict number of messages per day
+providing
+negative
+Supporting Windows Authentication could aspect_term very usefull for example writing app that interacts with Microsoft Dynamics CRM
+be
+positive
+currently only a defined set of extensions are supported for files to aspect_term to SkyDrive using the new live API which limit really the usage of the API
+upload
+negative
+For example my app can export CSV files and I had to rename their extensions to TXT to be able to upload them to aspect_term using the live API
+SkyDrive
+negative
+The language should aspect_term a search critreria for apps and games
+be
+positive
+The nonenglish marketplaces are filled with apps that support only english and it is hard to aspect_term apps in my native language
+find
+negative
+If its MS Windows Phone then aspect_term it as a part of the network
+make
+positive
+Will aspect_term all shared resources
+see
+negative
+One shared folder can aspect_term set on phone device
+be
+negative
+Easy to access and transfer on both sides aspect_term
+PCPhone
+negative
+A business feature that would be really nice to have support for it the ability to aspect_term into a VoIP network for voip phone calls the most common architecture is the SIP Session Initiation Protocol
+tie
+positive
+So I would like the ability to configure a SIP client that ties into our VoIP PBX and phone system so my WP7 would basically aspect_term my desk phone extension
+become
+positive
+The only way this would really aspect_term well is if it ran in the background like the phones native phone functionality
+work
+negative
+If there is an app developer the a customer lukes id be good to aspect_term everything that they have made
+see
+positive
+Full or almost Entity Framework support including graphic class designer and interop with regular EF assemblies making it easy for developers to reuse model and persistence classes in the phone without the need to aspect_term all the work in Linq and some nasty tricks
+redo
+negative
+It would be nice to have the Deployment ability on my home PC able to aspect_term done wirelessly
+be
+positive
+This includes deploying in Visual Studio while developing and using the Application Deployment Tool that is aspect_term w the dev tools
+installed
+negative
+For me the benefit would be that when I dont have a microUSB cable handy I can still dev and deploy to my phone to try something out or deploy my friends XAP to my phone wo having to go aspect_term a cable first
+find
+negative
+This could be implemented via WiFi of course since Zune does aspect_term Sync already or even Bluetooth once we get Bluetooth data transfer ability
+wireless
+negative
+Wp75 aspect_term USB audio functionality with Microsoft Sync in cars
+lacks
+negative
+Bluetooth playing audio aspect_term very limited
+is
+negative
+Requesting MTP and mass storage functionality since competitors like iPhone are able to aspect_term all this already with Sync
+do
+positive
+In IsolatedStorage image file can save to local MediaLibrarywhy not record wave file aspect_term not
+can
+negative
+too slow and too little aspect_term
+possibilities
+negative
+I took a while until I realized that I aspect_term StaticResource within the Style attribute
+forgot
+negative
+Its very hard to aspect_term application supporting multiple languages
+create
+negative
+aspect_term functionalities like Resource manager as given by IDE of other platforms
+Give
+positive
+Managing resources and folder structure for them should aspect_term made easier
+be
+positive
+aspect_term an EQ for the mp3 playerat the moment the volume its really low
+make
+positive
+Curently 20 persons aspect_term
+max
+negative
+Please enable pinning of the WiFi settings on Start aspect_term
+page
+positive
+SplashScreenImageLight and SplashScreenImageDark would aspect_term great
+be
+positive
+After that it would be great to have the option to select an image from IsolatedStorage so that my app can aspect_term its splash screen image as needed
+update
+positive
+Make it so that a meteo style app would only need to adapt its UI to aspect_term on Windows phone
+run
+positive
+It would also be nice to have to deploy only one package to the marketplace but only the needed bits would aspect_term tranfered
+be
+positive
+Add movies and books would aspect_term an excellent addition for the system
+be
+positive
+Enable Speech Command to aspect_term songs selection by saying play song name play artist play album
+play
+positive
+I believe the single most important thing for Windows Phone to be successful is that users in all countries should aspect_term the same services available
+have
+positive
+Now when the marketplace has become available it would be great if users in other countries than US could aspect_term their accounts to the country they really live in
+migrate
+positive
+Since windows phones are selling hot in countries like India browser should aspect_term displaying Indian language characters
+start
+positive
+Allow user to aspect_term different accent colors for different tiles
+set
+positive
+we should aspect_term small tiles instead of a long list of apps of which you downloaded like android and ios
+have
+positive
+An app should be able to aspect_term a service that is disvoerable and consumable by other apps
+publish
+positive
+For example if I have an app that can process images I want other apps to be able to dicover my app and submit photos for me to aspect_term
+process
+positive
+I would aspect_term access to a stream for music played via the media library
+like
+positive
+i wish the functionality to access and aspect_term the public folder from exchange eg the public contacts or the calendar
+synchronize
+positive

@@ -1,0 +1,18 @@
+Loading data info ...
+There are 9319 words in the dataset, the max length of aspect is 2, and the max length of sentence is 343
+Read 5908 examples from data/suggestion/train.txt
+Read 849 examples from data/suggestion/test.txt
+Loading pre-trained word vectors ...
+There are 7211 words in vocabulary and 2108 words out of vocabulary
+[epoch 000] train accuracy: 0.9242 test accuracy: 1.0000
+[epoch 001] train accuracy: 0.9993 test accuracy: 1.0000
+[epoch 002] train accuracy: 0.9997 test accuracy: 1.0000
+[epoch 003] train accuracy: 1.0000 test accuracy: 1.0000
+[epoch 004] train accuracy: 1.0000 test accuracy: 1.0000
+[epoch 005] train accuracy: 1.0000 test accuracy: 1.0000
+[epoch 006] train accuracy: 1.0000 test accuracy: 1.0000
+[epoch 007] train accuracy: 1.0000 test accuracy: 1.0000
+[epoch 008] train accuracy: 1.0000 test accuracy: 1.0000
+[epoch 009] train accuracy: 1.0000 test accuracy: 1.0000
+max test accuracy: 1.0000
+Time Costing: 266.2776963710785
