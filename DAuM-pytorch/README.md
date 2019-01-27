@@ -8,6 +8,8 @@ This is a pytorch implementation for [Enhanced Aspect Level Sentiment Classifica
 pytorch 1.0.0
 numpy
 spacy
+sklearn
+nltk
 ```
 
 ## Quick Start
@@ -24,8 +26,6 @@ python main.py
 
 | Dataset    | Accuracy |
 | ---------- | -------- |
-| Laptop     | 69.12   |
-| Restaurant | 79.20   |
+| subTaskB | 80.03  |
 
 [1]:http://aclweb.org/anthology/C18-1092
-[2]:https://nlp.stanford.edu/projects/glove/
